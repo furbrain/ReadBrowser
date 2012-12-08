@@ -1,0 +1,75 @@
+from django.core.management.base import NoArgsCommand, make_option
+from django.db import transaction
+from readcodes.models import Term,ReadCode,Hierarchy,Key
+
+class Command(NoArgsCommand):
+
+    help = "Import data"
+
+    option_list = NoArgsCommand.option_list + (
+        make_option('--verbose', action='store_true'),
+    )
+    
+    @transaction.commit_manually
+    def handle_noargs(self, **options):
+		#import terms - preloaded
+		#import descriptions
+		# load descs
+		f = open('readcodes/data/V3/Descrip.v3')
+		old_readcode = ""
+		codes = {}
+		i=0
+		for line in f:
+			(code,synonym,status) = line.strip().split('|')
+			if code != old_readcode:
+				codes[code] = {}
+				codes[code]['synonyms'] = []
+				codes[code]['parents'] = {}
+				old_readcode = code
+			codes[code]['synonyms'].append(synonym)
+			if status=='P':
+				codes[code]['preferred_term'] = synonym
+			i+=1
+			if i % 10000==0:
+				print "%d descriptions processed" % i
+		# load hierarchies
+		f = open('readcodes/data/V3/V3hier.v3')
+		i=0
+		for line in f:
+			(child,parent,position) = line.strip().split('|')
+			codes[child]['parents'][parent] = position
+			i+=1
+			if i % 10000==0:
+				print "%d hierarchies processed" % i
+		# load concepts
+		f = open('readcodes/data/V3/Concept.v3')
+		i=0
+		for line in f:
+			(read_code,concept_status,role,subject_type) = line.strip().split('|')
+			try:
+				codes[read_code]['concept_status'] = concept_status
+				codes[read_code]['subject_type'] = subject_type
+				codes[read_code]['is_attribute'] = (role=='A')
+				i+=1
+				if i % 10000==0:
+					print "%d concepts processed" % i
+			except KeyError:
+				pass
+		# add all the data into the readcode tree
+		i=0
+		out_codes = open('readcodes/data/readcode.v3','w')
+		out_synonyms = open('readcodes/data/synonyms.v3','w')
+		out_hierarchy = open('readcodes/data/hierarchy.v3','w')
+		for k,v in codes.items():
+			out_codes.write('|'.join([k,v['preferred_term'],v['concept_status'],'t' if v['is_attribute'] else 'f',v['subject_type']])+"\n")
+			for syn in v['synonyms']:
+				out_synonyms.write("%s|%s\n" % (k,syn))
+			for parent,position in v['parents'].items():
+				out_hierarchy.write("%s|%s|%s\n" % (k,parent,position))
+			i+=1
+			if i % 10000==0:
+				print "%d concepts processed" % i
+		out_codes.close()
+		out_synonyms.close()
+		out_hierarchy.close()
+

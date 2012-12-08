@@ -1,0 +1,11 @@
+PERSISTENT_READ_CODE|REDUNDANT_READ_CODE|PERSISTENT_PREF_TERM_60|REDUNDANT_PREF_TERM_60|RELEASE
+XM0Zx|XM0hg|Assessment scales|Assessment scales Re-Sc|2012-10-01
+XM0Zx|XM0id|Assessment scales|Assessment scales Se-Su|2012-10-01
+XM0Zx|XM0bU|Assessment scales|Assessment scales Ca-De|2012-10-01
+XM0Zx|XM0da|Assessment scales|Assessment scales Ge-Iz|2012-10-01
+XM0Zx|XM0eb|Assessment scales|Assessment scales Ja-Me|2012-10-01
+XM0Zx|XM0jb|Assessment scales|Assessment scales Sw-Va|2012-10-01
+XM0Zx|XM0fe|Assessment scales|Assessment scales Mi-Oz|2012-10-01
+XM0Zx|XM0kA|Assessment scales|Assessment scales Ve-Zu|2012-10-01
+XM0Zx|XM0cW|Assessment scales|Assessment scales Di-Ga|2012-10-01
+XM0Zx|XM0go|Assessment scales|Assessment scales Pa-Ra|2012-10-01

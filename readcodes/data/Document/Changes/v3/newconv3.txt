@@ -1,0 +1,1498 @@
+READ_CODE|TERM_60|TERM_ID|DESC_TYPE|RELEASE
+XaZlz|Major histocompatibility class I percentage of lymphocytes|Yavk6|P|2012-10-01
+XaZMV|Influenza B nucleic acid detection|YavTH|P|2012-10-01
+XaZPw|Insulinoma-associated antigen-2 antibody level|YavVP|P|2012-10-01
+XSF2u|Allergen specific IgE antibody level|YSOmj|P|2012-10-01
+XaZa9|Recombinant Ara h1 peanut specific IgE antibody level|YavcT|P|2012-10-01
+XaZjU|Recombinant Ara h2 peanut specific IgE antibody level|Yavj9|P|2012-10-01
+XaZeo|Recombinant Ara h3 peanut specific IgE antibody level|YavhL|P|2012-10-01
+XaZZq|Recombinant Ara h8 peanut specific IgE antibody level|Yavc7|P|2012-10-01
+XaZhc|Recombinant Pru p3 peach specific IgE antibody level|Yavid|P|2012-10-01
+XaZYC|Saccharomyces cerevisiae antibody specificity|Yavav|P|2012-10-01
+XaZYE|Saccharomyces cerevisiae IgG antibody specificity|Yavax|P|2012-10-01
+XaZYD|Saccharomyces cerevisiae IgA antibody specificity|Yavaw|P|2012-10-01
+XaZfB|Giardia lamblia antibody specificity|YavhV|P|2012-10-01
+XaZZg|Toxoplasma (BAM ELISA) IgM antibody level|Yavc0|P|2012-10-01
+XaZhm|CD3-/HLA-DR+ percentage of lymphocytes|Yavig|P|2012-10-01
+XaZhZ|CD11a+ percentage of lymphocytes|Yavia|P|2012-10-01
+XaZhY|CD18+ percentage of lymphocytes|YaviZ|P|2012-10-01
+XaZZt|6-methylmercaptopurine nucleotide level|YavcB|P|2012-10-01
+XaZZt|6-MMP (6-methylmercaptopurine) nucleotide level|YavcD|S|2012-10-01
+XaZZs|6-thioguanine nucleotide level|YavcA|P|2012-10-01
+XaZZs|6-TGN (6-thioguanine) nucleotide level|YavcC|S|2012-10-01
+XaZmQ|Fractional excretion of phosphate|YavkE|P|2012-10-01
+XaZMZ|Normalised metadrenaline product|YavTK|P|2012-10-01
+XaZhR|Transcobalamin level|YaviV|P|2012-10-01
+XaZPy|Cocaine and amphetamine regulated transcript peptide level|YavVR|P|2012-10-01
+XaZPy|CART (cocaine and amphetamine regulated transcript) level|YavVS|S|2012-10-01
+XaZmo|EuroQol five dimension five level index value|Yavkk|P|2012-10-01
+XaZmo|EQ-5D-5L (EuroQol five dimension five level) index value|Yavkl|S|2012-10-01
+XaZYY|Patient on oxygen|YavbB|P|2012-10-01
+XaZke|Supply of medication available at home|YavjS|P|2012-10-01
+XaZLF|Life expectancy limiting condition|YavSq|P|2012-10-01
+XaZar|Waist to height ratio|Yave7|P|2012-10-01
+XaZcl|Baseline body mass index|Yavfq|P|2012-10-01
+XaZMj|Target body mass index|YavTP|P|2012-10-01
+XaZck|Baseline body mass index centile|Yavfp|P|2012-10-01
+XaZOn|Visceral fat percentage of total body composition|YavV1|P|2012-10-01
+XaZLC|Total bone mass|YavSn|P|2012-10-01
+XaZcj|Baseline waist circumference|Yavfo|P|2012-10-01
+XaZL6|Uses Personal Communication Passport|YavSh|P|2012-10-01
+XaZWw|Radial pulse rate|YavaX|P|2012-10-01
+XaZeP|Post-traumatic stress disorder impact of events scale score|Yavgy|P|2012-10-01
+XaZeI|Penn State worry questionnaire score|Yavgu|P|2012-10-01
+XaZeH|Obsessive compulsive inventory score|Yavgt|P|2012-10-01
+XaZIE|Waterpipe tobacco consumption|YavQK|P|2012-10-01
+XaZYt|S/Z (voiceless sound s to voiced sound z) ratio|YavbX|P|2012-10-01
+XaZeg|Bowels not opened in last 24 hours|YavhF|P|2012-10-01
+XaZQg|Sneezing incontinence of urine|YavVh|P|2012-10-01
+XaZl3|Left upper limb volume proximal to distal segment ratio|Yavjk|P|2012-10-01
+XaZl1|Right upper limb volume proximal to distal segment ratio|Yavji|P|2012-10-01
+XaZkl|Left upper limb total volume|YavjW|P|2012-10-01
+XaZkk|Right upper limb total volume|YavjV|P|2012-10-01
+XaZky|Percent vol diff between proximal segments of upper limbs|Yavjg|P|2012-10-01
+XaZkx|Percent vol diff between distal segments of upper limbs|Yavjf|P|2012-10-01
+XaZkv|Quant vol diff between proximal segments of upper limbs|Yavjd|P|2012-10-01
+XaZkt|Quant vol diff between distal segments of upper limbs|Yavjc|P|2012-10-01
+XaZkn|Left upper limb proximal segment volume|YavjY|P|2012-10-01
+XaZkm|Right upper limb proximal segment volume|YavjX|P|2012-10-01
+XaZkp|Left upper limb distal segment volume|Yavja|P|2012-10-01
+XaZko|Right upper limb distal segment volume|YavjZ|P|2012-10-01
+XaZlg|Left lower limb volume proximal to distal segment ratio|Yavjz|P|2012-10-01
+XaZlf|Right lower limb volume proximal to distal segment ratio|Yavjy|P|2012-10-01
+XaZlG|Left lower limb total volume|Yavjq|P|2012-10-01
+XaZlF|Right lower limb total volume|Yavjp|P|2012-10-01
+XaZlc|Percentage volume diff between proximal segments lower limbs|Yavjw|P|2012-10-01
+XaZlY|Percentage volume diff between distal segments lower limbs|Yavjv|P|2012-10-01
+XaZlV|Quantitative vol diff between proximal segments lower limbs|Yavjt|P|2012-10-01
+XaZlI|Quantitative vol diff between distal segments of lower limbs|Yavjr|P|2012-10-01
+XaZlB|Left lower limb distal segment volume|Yavjo|P|2012-10-01
+XaZlA|Right lower limb distal segment volume|Yavjn|P|2012-10-01
+XaZl8|Left lower limb proximal segment volume|Yavjm|P|2012-10-01
+XaZl7|Right lower limb proximal segment volume|Yavjl|P|2012-10-01
+XaZe8|European pressure ulcer advis panel grade press ulcer R foot|Yavgl|P|2012-10-01
+XaZeA|European pressure ulcer advis panel grade press ulcer L foot|Yavgn|P|2012-10-01
+XaZeB|European pressure ulcer advis panel grade press ulcer R knee|Yavgo|P|2012-10-01
+XaZeC|European pressure ulcer advis panel grade press ulcer L knee|Yavgp|P|2012-10-01
+XaZeE|European pressure ulcer advis panel grade press ulcer R hip|Yavgr|P|2012-10-01
+XaZeF|European pressure ulcer advis panel grade press ulcer L hip|Yavgs|P|2012-10-01
+XaZLR|Wound slough|YavT2|P|2012-10-01
+XaZHF|Wound epithelialisation|YavPU|P|2012-10-01
+XaZJa|Ischaemic lower limb pain at rest|YavRI|P|2012-10-01
+XaZJa|Ischaemic leg pain at rest|YavRJ|S|2012-10-01
+XaZGd|On solids at 5 months|YavOr|P|2012-10-01
+XaZKZ|Parenteral nutrition at birth|YavSA|P|2012-10-01
+XaZKX|Parenteral nutrition at 10 days|YavS8|P|2012-10-01
+XaZKY|Parenteral nutrition at 6 weeks|YavS9|P|2012-10-01
+XaZHb|Able to manage foot care|YavPp|P|2012-10-01
+XaZil|Continence care equipment available at home|Yavj1|P|2012-10-01
+XaZik|Catheter care equipment available at home|Yavj0|P|2012-10-01
+XaZcc|Moving and handling equipment available at home|Yavfh|P|2012-10-01
+XaZN3|Keeps essential information in Message in a Bottle|YavTz|P|2012-10-01
+XaZJr|Does not have mobile telephone|YavRQ|P|2012-10-01
+XaZao|Reads Welsh|Yave6|P|2012-10-01
+XaZjR|Member of military family|Yavj8|P|2012-10-01
+XaZY6|Dependant of former serving member of British Armed Forces|Yavas|P|2012-10-01
+XaZY5|Dependant of current serving member of British Armed Forces|Yavar|P|2012-10-01
+XaZNz|Carer has complex care needs|YavUc|P|2012-10-01
+XaZNO|Complex care needs|YavUO|P|2012-10-01
+XaZYy|Has socially isolated carer|Yavba|P|2012-10-01
+XaZJs|Child is cause for safeguarding concern|YavRR|P|2012-10-01
+XaZLH|Proctoscopy normal|YavSs|P|2012-10-01
+XaZLI|Proctoscopy abnormal|YavSt|P|2012-10-01
+XaZcq|Carrier of Connexin 26 gene mutation|Yavfr|P|2012-10-01
+XaZRf|Country of origin high risk for blood-borne virus|YavWB|P|2012-10-01
+XaZfM|At risk of deprivation of liberty under MCA 2005|Yavhd|P|2012-10-01
+XaZMm|At risk of institutional abuse|YavTQ|P|2012-10-01
+XaZKq|At risk of unwanted pregnancy|YavSS|P|2012-10-01
+XaZZo|At risk of cardiovascular disease|Yavc5|P|2012-10-01
+XaZLE|High risk of cardiovascular disease|YavSp|P|2012-10-01
+XaZNU|At risk of blood-borne virus infection|YavUT|P|2012-10-01
+XaZLG|High risk of diabetes mellitus|YavSr|P|2012-10-01
+XaZHg|At high risk of falls|YavPt|P|2012-10-01
+XaZMX|At risk of financial abuse|YavTJ|P|2012-10-01
+XaZYA|Patient reported disability|Yavat|P|2012-10-01
+XaZVX|For attempted cardiopulmonary resuscitation|YavZ6|P|2012-10-01
+XaZVX|For attempted CPR (cardiopulmonary resuscitation)|YavZ7|S|2012-10-01
+XaZKn|Carer aware of diagnosis|YavSO|P|2012-10-01
+XaZKa|Excessive somnolence|YavSB|P|2012-10-01
+XaZWX|Loose corneal suture|Yag8N|P|2012-10-01
+XaZWT|Loose corneal graft suture|YagAk|P|2012-10-01
+XaZd1|Acute non-infective exacerbation of COPD|Yavfv|P|2012-10-01
+XaZd1|Acute non-infective exacerbation of COPD|Yavfw|S|2012-10-01
+XaZT5|Occlusion of artery of lower limb|YavXC|P|2012-10-01
+XaZV1|Occlusion of posterior tibial artery|YavYd|P|2012-10-01
+XaZV0|Occlusion of anterior tibial artery|YavYc|P|2012-10-01
+XaZT6|Occlusion of dorsalis pedis artery|YavXD|P|2012-10-01
+XaZT0|Occlusion of artery of upper limb|YavX7|P|2012-10-01
+XaZT3|Occlusion of ulnar artery|YavXA|P|2012-10-01
+XaZT2|Occlusion of brachial artery|YavX9|P|2012-10-01
+XaZT1|Occlusion of radial artery|YavX8|P|2012-10-01
+XaZR8|Renal artery stent thrombosis|YavW1|P|2012-10-01
+XaZht|Thrombosis of subclavian vein|Yavio|P|2012-10-01
+XaZcx|Amyloid cardiomyopathy|Yavfu|P|2012-10-01
+XaZSw|Senile cardiac amyloidosis|YavX2|P|2012-10-01
+XaZUz|Chronic pericardial effusion|YavYb|P|2012-10-01
+XaZbz|Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)|YavfE|P|2012-10-01
+XaZbT|Hypertension resistant to drug therapy|Yavel|P|2012-10-01
+XaZWn|Severe hypertension (Nat Inst for Health Clinical Ex 2011)|YavaE|P|2012-10-01
+XaZWn|Severe hypertension|YavdR|S|2012-10-01
+XaZWm|Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)|YavaD|P|2012-10-01
+XaZWm|Stage 1 hypertension|YavdS|S|2012-10-01
+XaZlu|Stenosis of dialysis vascular access|Yavk2|P|2012-10-01
+XaZlv|Thrombosis of dialysis vascular access|Yavk3|P|2012-10-01
+XaZfR|Adult T-cell leukaemia/lymphoma|Yavhi|P|2012-10-01
+XaZdn|Diffuse large B-cell lymphoma|YSbMm|P|2012-10-01
+XaZdF|Follicular lymphoma grade 2|YSbN1|P|2012-10-01
+XaZdD|Follicular lymphoma grade 3|Yav1g|P|2012-10-01
+XaZhs|Lymphoedema of uncertain aetiology|Yavin|P|2012-10-01
+XaZat|Chronic sialosis of parotid gland|Yave8|P|2012-10-01
+XaZaA|Epiploic appendagitis|YavcU|P|2012-10-01
+XaZfN|High grade dysplasia of colon|Yavhe|P|2012-10-01
+XaZSu|Streptococcal peritonitis|YavX0|P|2012-10-01
+XaZSs|Staphylococcal peritonitis|YavWz|P|2012-10-01
+XaZe5|Acute renal failure due to traumatic rhabdomyolysis|Yavgj|P|2012-10-01
+XaZSx|Acute renal failure due to non-traumatic rhabdomyolysis|YavX4|P|2012-10-01
+XaZZ2|Acute renal failure induced by solvent|Yavbd|P|2012-10-01
+XaZYv|Acute renal failure induced by poison|YavbY|P|2012-10-01
+XaZZ0|Acute renal failure induced by radiographic contrast media|Yavbb|P|2012-10-01
+XaZUa|Acute renal failure induced by heavy metal|YavYL|P|2012-10-01
+XaZUZ|Acute renal failure induced by plant toxin|YavYK|P|2012-10-01
+XaZUY|Acute renal failure induced by animal toxin|YavYJ|P|2012-10-01
+XaZPu|Acute renal failure induced by non-steroid anti-inflamm drug|YavVN|P|2012-10-01
+XaZPt|Acute renal failure induced by cyclosporin A|YavVM|P|2012-10-01
+XaZPs|Acute renal failure induced by cisplatin|YavVL|P|2012-10-01
+XaZPp|Acute renal failure induced by aminoglycoside|YavVI|P|2012-10-01
+XaZkZ|Adult cystinosis|YavjO|P|2012-10-01
+XaZYx|Vascular complication of renal transplant|YavbZ|P|2012-10-01
+XaZl0|Aneurysm of artery of transplanted kidney|Yavjh|P|2012-10-01
+XaZkw|Aneurysm of vein of transplanted kidney|Yavje|P|2012-10-01
+XaZe7|Stenosis of vein of transplanted kidney|Yavgk|P|2012-10-01
+XaZe3|Rupture of vein of transplanted kidney|Yavgh|P|2012-10-01
+XaZe2|Rupture of artery of transplanted kidney|Yavgg|P|2012-10-01
+XaZWa|Urological complication of renal transplant|Yava0|P|2012-10-01
+XaZfW|Impaired glucose regulation|Yavhl|P|2012-10-01
+XaZml|Amyloidosis of intestine|Yavkd|P|2012-10-01
+XaZml|Amyloid of intestine|Yavke|S|2012-10-01
+XaZmn|Amyloidosis of large intestine|Yavkh|P|2012-10-01
+XaZmn|Amyloid of large intestine|Yavki|S|2012-10-01
+XaZmm|Amyloidosis of small intestine|Yavkf|P|2012-10-01
+XaZmm|Amyloid of small intestine|Yavkg|S|2012-10-01
+XaZd5|Amyloidosis of stomach|Yavg0|P|2012-10-01
+XaZd5|Amyloid of stomach|Yavfz|S|2012-10-01
+XaZHH|Sun damaged skin|YavPW|P|2012-10-01
+XaZMh|Rheumatism|Y70D8|P|2012-10-01
+XaZRD|Rupture of rectus femoris muscle|YavW5|P|2012-10-01
+XaZYG|Infection due to ESBL producing bacteria|Yavaz|P|2012-10-01
+XaZYG|Infection due to ESBL producing bacteria|Yavb0|S|2012-10-01
+XaZKS|Infection due to vancomycin resistant enterococcus|YavS3|P|2012-10-01
+XaZd4|Cardio-facio-cutaneous syndrome|Yavfy|P|2012-10-01
+XaZWI|Cohen syndrome|YavZt|P|2012-10-01
+XaZdk|Thrombus in peritoneal dialysis catheter|YavgN|P|2012-10-01
+XaZmp|Anaphylactoid reaction due to haemodialysis|Yavkm|P|2012-10-01
+XaZc8|Ruptured aneurysm of dialysis vascular access|YavfM|P|2012-10-01
+XaZcU|Aneurysm of dialysis arteriovenous fistula|YavfZ|P|2012-10-01
+XaZcd|Aneurysm of anastomotic site of dialysis AV fistula|Yavfi|P|2012-10-01
+XaZcX|Aneurysm of needle site of dialysis arteriovenous fistula|Yavfc|P|2012-10-01
+XaZcQ|Aneurysm of superficialised artery of dialysis AV fistula|YavfV|P|2012-10-01
+XaZWY|Severe mental illness enhanced services administration|YavZy|P|2012-10-01
+XaZVK|Post-exposure DTaP/IPV vaccinatn prog enhancd services admin|YavYy|P|2012-10-01
+XaZeM|Admit anticoagulation emergency|Yavgw|P|2012-10-01
+XaZVU|Emergency hospital admission from walk-in centre|YavZ3|P|2012-10-01
+XaZJX|Admission to acute assessment unit|YavRE|P|2012-10-01
+XaZhO|Referral for carpal tunnel injection|YaviT|P|2012-10-01
+XaZbm|Referral for retinal photography|Yavf3|P|2012-10-01
+XaZK8|Referral to safeguarding coordinator|YavRj|P|2012-10-01
+XaZHI|Referral to community phlebotomist|YavPY|P|2012-10-01
+XaZKi|Referral to weight management special interest GP|YavSJ|P|2012-10-01
+XaZKi|Referral to weight management GPwSI|YavSK|S|2012-10-01
+XaZZp|Referral to community geriatrician|Yavc6|P|2012-10-01
+XaZIX|Private referral to spinal surgeon|YavQU|P|2012-10-01
+XaZcf|Referral to health psychologist|Yavfk|P|2012-10-01
+XaZIW|Private referral to psychologist|YavQS|P|2012-10-01
+XaZKe|Referral to residential weight management programme|YavSF|P|2012-10-01
+XaZh7|Referral to paediatric orthopaedic service|YaviQ|P|2012-10-01
+XaZh3|Referral to paediatric ear, nose and throat service|YaviP|P|2012-10-01
+XaZgz|Referral to podiatric surgery service|YaviO|P|2012-10-01
+XaZGh|Referral to Single Point of Access service|YavOt|P|2012-10-01
+XaZGl|Referral to orthopaedic triage service|YavOv|P|2012-10-01
+XaZaU|Referral to peripheral joint orthopaedic triage service|Yavd8|P|2012-10-01
+XaZaT|Referral to spinal orthopaedic triage service|Yavd7|P|2012-10-01
+XaZHO|Referral to literacy service|YavPa|P|2012-10-01
+XaZbR|Referral to cardiology multidisciplinary team|Yavej|P|2012-10-01
+XaZJ0|Referral to teledermatology service|YavQs|P|2012-10-01
+XaZlp|Referral to Angina Plan self-management programme|Yavk0|P|2012-10-01
+XaZRb|Referral to community musculoskeletal service|YavWA|P|2012-10-01
+XaZHd|Referral to employability service|YavPq|P|2012-10-01
+XaZKj|Referral for hysteroscopy|YavSL|P|2012-10-01
+XaZNj|Referral to community audiology clinic|YavUa|P|2012-10-01
+XaZO4|Referral to community rheumatology clinic|YavUd|P|2012-10-01
+XaZOA|Referral to community leg ulcer clinic|YavUg|P|2012-10-01
+XaZO7|Referral to community neurology clinic|YavUe|P|2012-10-01
+XaZRZ|Referral to community diabetes clinic|YavW7|P|2012-10-01
+XaZRa|Referral to community paediatric clinic|YavW8|P|2012-10-01
+XaZZw|Opportunistic verification of patient email address|YavcE|P|2012-10-01
+XaZbV|Service to service in-hospital transfer|Yaven|P|2012-10-01
+XaZTN|Appl urgent authorisation DOL MCA 2005|YavXK|P|2012-10-01
+XaZLW|Appl standard authorisation DOL MCA 2005|YavT8|P|2012-10-01
+XaZc2|Discharge by Macmillan nurse|YavfG|P|2012-10-01
+XaZbX|Discharge from Social Services|Yavep|P|2012-10-01
+XaZbU|Discharge from voluntary service|Yavem|P|2012-10-01
+XaZbc|Discharge from community respiratory team|Yavet|P|2012-10-01
+XaZOT|Discharge from family nurse partnership team|YavUy|P|2012-10-01
+XaZbS|Discharge from cancer primary healthcare MDT|Yavek|P|2012-10-01
+XaZiH|Prov of info about abdo aortic aneurysm screening programme|Yavit|P|2012-10-01
+XaZiD|Provision of information about cervical screening programme|Yavis|P|2012-10-01
+XaZhQ|Provision of information about splint|YaviU|P|2012-10-01
+XaZOM|Provision of information on services for carers|YavUx|P|2012-10-01
+XaZhB|Smoking cessation 12 week follow-up|YaviR|P|2012-10-01
+XaZbb|Post-operative care in primary care|Yaves|P|2012-10-01
+XaZOl|Consultation for complex sexual health need|YavV0|P|2012-10-01
+XaZJc|Letter received from relative|YavRL|P|2012-10-01
+XaZgS|Invitation for Electronic Prescription Service|YaviH|P|2012-10-01
+XaZZa|Influenza vaccination invitation email|Yavbu|P|2012-10-01
+XaZZd|Influenza vaccination invitation third email|Yavbx|P|2012-10-01
+XaZZc|Influenza vaccination invitation second email|Yavbw|P|2012-10-01
+XaZZb|Influenza vaccination invitation first email|Yavbv|P|2012-10-01
+XaZJJ|Cervical smear screening SMS message text|YavQy|P|2012-10-01
+XaZJJ|Cervical smear screening invitation text message|YavQz|S|2012-10-01
+XaZJM|Cervical smear screening third invitation SMS message text|YavR4|P|2012-10-01
+XaZJM|Cervical smear screening invitation third text message|YavR5|S|2012-10-01
+XaZJL|Cervical smear screening invitation second SMS message text|YavR2|P|2012-10-01
+XaZJL|Cervical smear screening invitation second text message|YavR3|S|2012-10-01
+XaZJK|Cervical smear screening invitation first SMS message text|YavR0|P|2012-10-01
+XaZJK|Cervical smear screening invitation first text message|YavR1|S|2012-10-01
+XaZYB|Employment support indicated|Yavau|P|2012-10-01
+XaZHh|Employment and support allowance status|YavPu|P|2012-10-01
+XaZHu|ESA113 form paid|YavQ9|P|2012-10-01
+XaZHt|ESA113 form received|YavQ8|P|2012-10-01
+XaZHs|ESA113 form sent|YavQ7|P|2012-10-01
+XaZHj|ESA113 form completed|YavPw|P|2012-10-01
+XaZL8|CAF for children and young people action plan started|YavSj|P|2012-10-01
+XaZfP|Standard authorisation deprivation liberty MCA 2005 declined|Yavhg|P|2012-10-01
+XaZfO|Standard authorisation deprivation of liberty MCA 2005 given|Yavhf|P|2012-10-01
+XaZbd|Declined consent for Electronic Prescription Service|Yaveu|P|2012-10-01
+XaZbW|Consent given for injection|Yaveo|P|2012-10-01
+XaZbY|Consent given for carpal tunnel injection|Yaveq|P|2012-10-01
+XaZNm|Consent given for deactivation of automatic ICD|YavUb|P|2012-10-01
+XaZMS|Consent given for Electronic Prescription Service|YavTG|P|2012-10-01
+XaZGu|Declined consent for communication by email|YavP9|P|2012-10-01
+XaZJb|Discharged from acute assessment unit|YavRK|P|2012-10-01
+XaZbi|Palliative care handover form completed|Yavez|P|2012-10-01
+XaZJE|GOS18 form forwarded to optometrist|YavQv|P|2012-10-01
+XaZZC|Letter received from solicitor|Yavbf|P|2012-10-01
+XaZmb|Ambulance service notified of patient on EoL care register|YavkZ|P|2012-10-01
+XaZZn|Not aware of DNACPR clinical decision|Yavc3|P|2012-10-01
+XaZZn|Not aware of DNACPR clinical decision|Yavc4|S|2012-10-01
+XaZQp|Aware of referral|YavVj|P|2012-10-01
+XaZNV|Not aware of referral|YavUU|P|2012-10-01
+XaZm1|Has healthcare support worker|Yavk8|P|2012-10-01
+XaZj7|Has spiritual and cultural support|Yavj3|P|2012-10-01
+XaZm0|Has direct care worker|Yavk7|P|2012-10-01
+XaZj9|Has social care assessor|Yavj4|P|2012-10-01
+XaZiX|Has self management plan|Yaviu|P|2012-10-01
+XaZhv|Has Social Services care manager|Yavip|P|2012-10-01
+XaZZf|Healthcare prof would not be surprised (GSF surprise qu)|Yavbz|P|2012-10-01
+XaZLd|Under care of service|YavTE|P|2012-10-01
+XaZch|Under care of renal service|Yavfm|P|2012-10-01
+XaZLY|Under care of health visiting service|YavTA|P|2012-10-01
+XaZLc|Under care health visiting serv - Universal partnership plus|YavTD|P|2012-10-01
+XaZLb|Under care of health visiting service - Universal plus|YavTC|P|2012-10-01
+XaZLa|Under care of health visiting service - Universal|YavTB|P|2012-10-01
+XaZKm|Not eligible for Keep Well health check|YavSN|P|2012-10-01
+XaZKA|Subject of child in need plan|YavRl|P|2012-10-01
+XaZIv|Subject of comprehensive geriatric assessment plan|YavQm|P|2012-10-01
+XaZbE|GSF prognostic indicator stage D (red) - days prognosis|YaveM|P|2012-10-01
+XaZbD|GSF prognostic indicator stage C (yellow) - weeks prognosis|YaveL|P|2012-10-01
+XaZbA|GSF prognostic indicator stage B (green) - months prognosis|YaveI|P|2012-10-01
+XaZb7|GSF prognostic indicator stage A (blue) - yr plus prognosis|YaveF|P|2012-10-01
+XaZi1|Under care of oncologist|Yavir|P|2012-10-01
+XaZhw|Under care of palliative care specialist nurse|Yaviq|P|2012-10-01
+XaZd8|Unsuitable for QRISK2 cardiovascular disease risk assessment|Yavg3|P|2012-10-01
+XaZd7|Unsuitable for biopsychosocial assessment|Yavg2|P|2012-10-01
+XaZWz|Participates in Butterfly Scheme for dementia|YavaZ|P|2012-10-01
+XaZIy|Under care of family nurse partnership team|YavQp|P|2012-10-01
+XaZJW|Declines to give mobile telephone number|YavRD|P|2012-10-01
+XaZJ8|Seen by GP with special interest in rheumatology|YavQt|P|2012-10-01
+XaZcJ|Seen in ear care clinic|YavfQ|P|2012-10-01
+XaZLD|Seen in injection clinic|YavSo|P|2012-10-01
+XaZGy|Did not attend Mantoux reading|YavPD|P|2012-10-01
+XaZGx|Did not attend Mantoux test|YavPC|P|2012-10-01
+XaZGv|Did not attend Bacillus Calmette-Guerin vaccination|YavPA|P|2012-10-01
+XaZVL|Did not attend post exposure DTaP/IPV|YavYz|P|2012-10-01
+XaZem|Chaperone not offered|YavhJ|P|2012-10-01
+XaZbk|Incomplete patient record received|Yavf1|P|2012-10-01
+XaZPr|Duplicate patient record|YavVK|P|2012-10-01
+XaZhX|LLoyd George record used for consultation|YaviY|P|2012-10-01
+XaZGw|Sexually transmitted infection screening offered|YavPB|P|2012-10-01
+XaZc3|Hepatitis B screening not offered|YavfH|P|2012-10-01
+XaZfY|Seasonal influenza vaccination given by pharmacist|Yavhn|P|2012-10-01
+XaZHy|Hepatitis B vaccination invitation|YavQD|P|2012-10-01
+XaZI2|Hepatitis B vaccination verbal invitation|YavQH|P|2012-10-01
+XaZI1|Hepatitis B vaccination invitation third letter|YavQG|P|2012-10-01
+XaZI0|Hepatitis B vaccination invitation second letter|YavQF|P|2012-10-01
+XaZHz|Hepatitis B vaccination invitation first letter|YavQE|P|2012-10-01
+XaZVM|Post exposure DTaP/IPV vaccination invitation|YavZ0|P|2012-10-01
+XaZlw|Does monitor blood glucose level before driving|Yavk4|P|2012-10-01
+XaZHv|Using inhaled steroids - low dose|YavQA|P|2012-10-01
+XaZNg|Contraceptive sheath offered|YavUZ|P|2012-10-01
+XaZJY|Patient mobile telephone number unknown|YavRF|P|2012-10-01
+XaZGm|Referred by community matron|YavOw|P|2012-10-01
+XaZNT|Referred by residential home|YavUS|P|2012-10-01
+XaZNS|Referred by nursing home|YavUR|P|2012-10-01
+XaZID|Referred by lymphoedema service|YavQJ|P|2012-10-01
+XaZGb|Referred by hospital ward|YavOq|P|2012-10-01
+XaZGa|Referred by hospital outpatient department|YavOp|P|2012-10-01
+XaZNM|Participant in research study|YavUN|P|2012-10-01
+XaZZe|Patient held palliative care record|Yavby|P|2012-10-01
+1zz0x|Quarter 3 2012        MARATHON|Yavfx|P|2012-10-01
+XaZcg|Current palliative oncology treatment|Yavfl|P|2012-10-01
+XaZPo|Current supportive care for terminal illness|YavVH|P|2012-10-01
+XaZPn|Planned supportive care for terminal illness|YavVG|P|2012-10-01
+XaZPZ|Intervention on development of symptoms|YavV7|P|2012-10-01
+XaZZ1|Supportive care on development of symptoms|Yavbc|P|2012-10-01
+XaZPe|Acute intervention on development of symptoms|YavVC|P|2012-10-01
+XaZPa|Acute secondary care intervention on development of symptoms|YavV8|P|2012-10-01
+XaZPb|Acute medical intervention on development of symptoms|YavV9|P|2012-10-01
+XaZPc|Acute surgical intervention on development of symptoms|YavVA|P|2012-10-01
+XaZPd|Oncology intervention on development of symptoms|YavVB|P|2012-10-01
+XaZPW|Planned treatment|YavV5|P|2012-10-01
+XaZPX|Planned palliative oncology treatment|YavV6|P|2012-10-01
+XaZLA|Hospice at home service|YavSl|P|2012-10-01
+p8Wq.|LOFRIC HYDRO-KIT 6Ch 4210625 paed catheter+bag+water sachet|yz5ig|P|2012-10-01
+p8FH.|ALOE MEATAL 16Ch ALOEM16 12cm dilatation catheter|yz5ug|P|2012-10-01
+p8h..|NELATON CATHETER STERILE (19)|yz5uq|P|2012-10-01
+p8h1.|SMOOTH NELATON 8Ch SNP08 30cm paediatric catheter|yz5ur|P|2012-10-01
+p8hG.|ALOE HYDRO 16Ch AHM16TT 40cm Tiemann tip male catheter|yz5v6|P|2012-10-01
+p8h3.|ALOE HYDRO 10Ch AHM10 40cm male catheter|yz5ut|P|2012-10-01
+p8h4.|ALOE HYDRO 12Ch AHM12 40cm male catheter|yz5uu|P|2012-10-01
+p8h5.|ALOE HYDRO 14Ch AHM14 40cm male catheter|yz5uv|P|2012-10-01
+p8h6.|ALOE HYDRO 16Ch AHM16 40cm male catheter|yz5uw|P|2012-10-01
+p8h7.|ALOE HYDRO 8Ch AHF08 18cm female catheter|yz5ux|P|2012-10-01
+p8h8.|ALOE HYDRO 10Ch AHF10 18cm female catheter|yz5uy|P|2012-10-01
+p8h9.|ALOE HYDRO 12Ch AHF12 18cm female catheter|yz5uz|P|2012-10-01
+p8hA.|ALOE HYDRO 14Ch AHF14 18cm female catheter|yz5v0|P|2012-10-01
+p8hB.|ALOE HYDRO 6Ch AHP06 30cm paediatric catheter|yz5v1|P|2012-10-01
+p8hC.|ALOE HYDRO 8Ch AHP08 30cm paediatric catheter|yz5v2|P|2012-10-01
+p8hD.|ALOE HYDRO 10Ch AHP10 30cm paediatric catheter|yz5v3|P|2012-10-01
+p8hE.|ALOE HYDRO 12Ch AHM12TT 40cm Tiemann tip male catheter|yz5v4|P|2012-10-01
+p8hF.|ALOE HYDRO 14Ch AHM14TT 40cm Tiemann tip male catheter|yz5v5|P|2012-10-01
+p8h2.|SMOOTH NELATON 10Ch SNP10 30cm paediatric catheter|yz5us|P|2012-10-01
+p8gz.|SMOOTH NELATON 6Ch SNP06 30cm paediatric catheter|yz5up|P|2012-10-01
+p8gT.|LOFRIC PRIMO 6Ch 4110625 20cm paed catheter+water container|yz5ih|P|2012-10-01
+p8gU.|HYDROSIL GRIPPER 6Ch 72606 paed length urethral catheter|yz5ii|P|2012-10-01
+p8gV.|HYDROSIL GRIPPER 8Ch 72608 paed length urethral catheter|yz5ij|P|2012-10-01
+p8gW.|HYDROSIL GRIPPER 10Ch 72610 paed length urethral catheter|yz5ik|P|2012-10-01
+p8gX.|MAC-CATH COMPLETE 10Ch MACM10 male length catheter|yz5jx|P|2012-10-01
+p8gY.|MAC-CATH COMPLETE 12Ch MACM12 male length catheter|yz5jy|P|2012-10-01
+p8gZ.|MAC-CATH COMPLETE 14Ch MACM14 male length catheter|yz5jz|P|2012-10-01
+p8ga.|MAC-CATH COMPLETE 16Ch MACM16 male length catheter|yz5k0|P|2012-10-01
+p8gb.|MAC-CATH COMPLETE 18Ch MACM18 male length catheter|yz5k1|P|2012-10-01
+p8gc.|MAC-CATH COMPLETE 20Ch MACM20 male length catheter|yz5k2|P|2012-10-01
+p8gd.|MAC-CATH COMPLETE 22Ch MACM22 male length catheter|yz5k3|P|2012-10-01
+p8ge.|MAC-CATH COMPLETE 24Ch MACM24 male length catheter|yz5k4|P|2012-10-01
+p8gf.|MAC-CATH COMPLETE 8Ch MACF08 female length catheter|yz5k5|P|2012-10-01
+p8gg.|MAC-CATH COMPLETE 10Ch MACF10 female length catheter|yz5k6|P|2012-10-01
+p8gh.|MAC-CATH COMPLETE 12Ch MACF12 female length catheter|yz5k7|P|2012-10-01
+p8gi.|MAC-CATH COMPLETE 14Ch MACF14 female length catheter|yz5k8|P|2012-10-01
+p8gj.|MAC-CATH COMPLETE 16Ch MACF16 female length catheter|yz5k9|P|2012-10-01
+p8gk.|MAC-CATH COMPLETE 6Ch MACP06 paediatric length catheter|yz5kA|P|2012-10-01
+p8gl.|MAC-CATH COMPLETE 8Ch MACP08 paediatric length catheter|yz5kB|P|2012-10-01
+p8gm.|MAC-CATH COMPLETE 10Ch MACP10 paediatric length catheter|yz5kC|P|2012-10-01
+p8gn.|MAC-CATH COMPLETE 10Ch MACT10 Tiemann tip catheter|yz5kD|P|2012-10-01
+p8go.|MAC-CATH COMPLETE 12Ch MACT12 Tiemann tip catheter|yz5kE|P|2012-10-01
+p8gp.|MAC-CATH COMPLETE 14Ch MACT14 Tiemann tip catheter|yz5kF|P|2012-10-01
+p8gq.|MAC-CATH COMPLETE 16Ch MACT16 Tiemann tip catheter|yz5kG|P|2012-10-01
+p8gr.|SMOOTH NELATON 8Ch SNM08 40cm male catheter|yz5uh|P|2012-10-01
+p8gs.|SMOOTH NELATON 10Ch SNM10 40cm male catheter|yz5ui|P|2012-10-01
+p8gt.|SMOOTH NELATON 12Ch SNM12 40cm male catheter|yz5uj|P|2012-10-01
+p8gu.|SMOOTH NELATON 14Ch SNM14 40cm male catheter|yz5uk|P|2012-10-01
+p8gv.|SMOOTH NELATON 8Ch SNF08 18cm female catheter|yz5ul|P|2012-10-01
+p8gw.|SMOOTH NELATON 10Ch SNF10 18cm female catheter|yz5um|P|2012-10-01
+p8gx.|SMOOTH NELATON 12Ch SNF12 18cm female catheter|yz5un|P|2012-10-01
+p8gy.|SMOOTH NELATON 14Ch SNF14 18cm female catheter|yz5uo|P|2012-10-01
+pv4M.|YUSHIN B3 8Ch 08470803 2-way silicone paed suprapubic cath|yz5pi|P|2012-10-01
+XaZSU|Pulsed radiofrequency to occipital nerve|YavWf|P|2012-10-01
+XaZbq|Photocoagulation of eye|Yavf7|P|2012-10-01
+XaZSy|Percutaneous coronary intervention|YavX5|P|2012-10-01
+XaZQl|Maintenance of percutaneous endoscopic gastrostomy tube|YavVi|P|2012-10-01
+XaZVW|Laparoscopically assisted right hemicolectomy|YavZ4|P|2012-10-01
+XaZZX|Replacement of intrauterine system|Yavbr|P|2012-10-01
+XaZZX|Replacement of IUS (intrauterine system)|Yavbs|S|2012-10-01
+XaZjg|Prim op red frac neck fem op fix us prox fem nail antirotatn|YavjF|P|2012-10-01
+XaZep|Intravenous infusion of iron|YavhN|P|2012-10-01
+XaZbJ|Injection of platelet-rich plasma|YaveT|P|2012-10-01
+XaZbJ|Injection of PRP (platelet-rich plasma)|YaveU|S|2012-10-01
+XaZLQ|Screening for risk of falls|YavT1|P|2012-10-01
+XaZly|Transoesophageal echocardiographic monitoring|Yavk5|P|2012-10-01
+XaZdL|Electrocardiogram rhythm strip monitoring|YavgI|P|2012-10-01
+XaZdL|ECG (electrocardiogram) rhythm strip monitoring|YavgJ|S|2012-10-01
+XaZle|Monitoring of cardiac output using echocardiography|Yavjx|P|2012-10-01
+XaZkc|Monitoring of CO using thoracic impedance cardiography|YavjR|P|2012-10-01
+XaZkb|Monitoring of cardiac output using pulse contour analysis|YavjQ|P|2012-10-01
+XaZka|Monitoring cardiac output using continuous oesophag doppler|YavjP|P|2012-10-01
+XaZhV|High risk of diabetes mellitus annual review|YaviW|P|2012-10-01
+XaZS6|Date insulin pump therapy started|YavWI|P|2012-10-01
+XaZS7|Date insulin pump therapy stopped|YavWJ|P|2012-10-01
+XaZZx|Amiodarone monitoring|YavcF|P|2012-10-01
+XaZdB|Rheumatoid arthritis annual review|Yavg6|P|2012-10-01
+XaZfX|Warfarin daily dose|Yavhm|P|2012-10-01
+XaZZB|Gonadotrophin releasing hormone analogue prophylaxis|Yavbe|P|2012-10-01
+XaZZB|GnRH (gonadotrophin releasing hormone) analogue prophylaxis|Yavd9|S|2012-10-01
+XaZWZ|Electrochemotherapy|YavZz|P|2012-10-01
+XaZVu|Oral typhoid vaccination|YavZI|P|2012-10-01
+XaZVN|Post exposure DTaP/IPV vaccination|YavZ1|P|2012-10-01
+XaZc6|Dietary education for eating out|YavfK|P|2012-10-01
+XaZKh|Provision of information about antenatal screening|YavSI|P|2012-10-01
+XaZce|Education about self-help group|Yavfj|P|2012-10-01
+XaZcW|Eye care education|Yavfb|P|2012-10-01
+XaZcT|Education about diabetic retinopathy|YavfY|P|2012-10-01
+XaZcR|Education about diabetic nephropathy|YavfW|P|2012-10-01
+XaZcP|Education about diabetic neuropathy|YavfU|P|2012-10-01
+XaZcO|Education about ketoacidosis|YavfT|P|2012-10-01
+XaZcN|Hyperglycaemia education|YavfS|P|2012-10-01
+XaZc9|Hypoglycaemia education|YavfN|P|2012-10-01
+XaZc7|Safe disposal of sharp device education|YavfL|P|2012-10-01
+XaZIw|Education about prevention of sexually transmitted disease|YavQn|P|2012-10-01
+XaZcC|Education about management of vomiting|YavfP|P|2012-10-01
+XaZKr|Insulin administration education|YavST|P|2012-10-01
+XaZMa|Education about risk of breast cancer|YavTL|P|2012-10-01
+XaZVg|Education about human papillomavirus|YavZG|P|2012-10-01
+XaZX4|Education about risk of venous thromboembolism|Yavab|P|2012-10-01
+XaZZi|Education for psoriasis care|Yavc1|P|2012-10-01
+XaZIC|Rehabilitation for heart failure|YavQI|P|2012-10-01
+XaZci|Ear care assessment|Yavfn|P|2012-10-01
+XaZkY|Ear care follow-up assessment|YavjN|P|2012-10-01
+XaZhh|Ear care initial assessment|Yavie|P|2012-10-01
+XaZKW|Assessment for cardiac resynchronisation therapy|YavS7|P|2012-10-01
+XaZfL|Assess risk dep lib in accord MCA 2005 Dep lib safe Cde Prac|Yavhc|P|2012-10-01
+XaZTl|Assessment of Year of Care action confidence|YavXe|P|2012-10-01
+XaZTk|Assessment of Year of Care goal importance|YavXd|P|2012-10-01
+XaZJV|Assessment for nebuliser therapy|YavRC|P|2012-10-01
+XaZih|Heart failure clinical pathway|Yaviz|P|2012-10-01
+XaZig|Diabetes clinical pathway|Yaviy|P|2012-10-01
+XaZif|Audiology clinical pathway|Yavix|P|2012-10-01
+XaZee|Chronic obstructive pulmonary disease care pathway|YavhD|P|2012-10-01
+XaZe1|End of life care pathway|Yavgf|P|2012-10-01
+XaZdZ|Low back pain clinical pathway|YavgK|P|2012-10-01
+XaZdb|Constipation in children clinical pathway|YavgL|P|2012-10-01
+XaZeb|Falls care pathway|YavhA|P|2012-10-01
+XaZdc|Atrial fibrillation care pathway|YavgM|P|2012-10-01
+XaZJT|Map of Medicine pathway|YavRA|P|2012-10-01
+XaZbe|Provision of splint|Yavev|P|2012-10-01
+XaZbn|Provision of working splint wrist brace|Yavf4|P|2012-10-01
+XaZc5|Child protection medical examination|YavfJ|P|2012-10-01
+XaZVY|Annual school medical examination|YavZ8|P|2012-10-01
+XaZNd|Discussion about deactivation of automatic ICD|YavUY|P|2012-10-01
+XaZL7|Discussion about risks of combined oral contraception|YavSi|P|2012-10-01
+XaZHM|Discussion about HIV post exposure prophylaxis|YavPZ|P|2012-10-01
+XaZNY|Mouth care assessment|YavUW|P|2012-10-01
+XaZLJ|Provision of incontinence pad|YavSu|P|2012-10-01
+XaZjJ|Advance care planning|Yavj6|P|2012-10-01
+XaZjJ|ACP - advance care planning|Yavj7|S|2012-10-01
+XaZPk|Establishing focus of care|YavVD|P|2012-10-01
+XaZPl|Establishing focus of care with specialist cancer team|YavVE|P|2012-10-01
+XaZJU|Following clinical pathway protocol|Yavcn|P|2012-10-01
+XaZJU|Following clinical care pathway|YavRB|S|2012-10-01
+XaZLT|Review of supportive care plan|YavT5|P|2012-10-01
+XaZYs|Agreeing on patient actions in care plan|YavbW|P|2012-10-01
+XaZYr|Agreeing on health professional actions in care plan|YavbV|P|2012-10-01
+XaZbg|Provision of written info about carpal tunnel syndrome|Yavex|P|2012-10-01
+XaZKB|Provision of written information about bbv transmission risk|YavRm|P|2012-10-01
+XaZKc|Healthy Start programme|YavSD|P|2012-10-01
+XaZHf|Keep Well health check review|YavPs|P|2012-10-01
+XaZHe|Keep Well health check|YavPr|P|2012-10-01
+XaZPx|Paroxysmal nocturnal haemoglobinuria screening test|YavVQ|P|2012-10-01
+XaZPx|PNH (paroxysmal nocturnal haemoglobinuria) screening test|YavXJ|S|2012-10-01
+XaZJg|Serologic test for herpes simplex|YavRN|P|2012-10-01
+XaZfI|Vegetables mix RAST test|YavhZ|P|2012-10-01
+XaZhW|Pityrosporum orbiculare RAST test|YaviX|P|2012-10-01
+XaZfK|Asparagus RAST test|Yavhb|P|2012-10-01
+XaZfQ|Dust mix RAST test|Yavhh|P|2012-10-01
+XaZen|Fig RAST test|YavhK|P|2012-10-01
+XaZHY|Oral penicillin challenge test|YavPn|P|2012-10-01
+XaZbF|Black fracture index|YaveQ|P|2012-10-01
+XaZZW|Bristol activities of daily living scale|Yavbq|P|2012-10-01
+XaZb0|Assessment scales C|YaveA|P|2012-10-01
+XaZho|Combined Predictive Model|Yavij|P|2012-10-01
+XaZho|CPM - Combined Predictive Model|Yavik|S|2012-10-01
+XaZMW|Clarke hypoglycaemia awareness questionnaire|YavTI|P|2012-10-01
+XaZb1|Assessment scales D|YaveB|P|2012-10-01
+XaZZr|Dyspnoea,obstruction, smoking, exacerbation frequency index|Yavc8|P|2012-10-01
+XaZZr|Dyspnoea,obstruction, smoking, exacerbation frequency index|Yavc9|S|2012-10-01
+XaZMQ|Diabetes quality of life questionnaire|YavTF|P|2012-10-01
+XaZb2|Assessment scales E|YaveC|P|2012-10-01
+XaZcA|Edmonton symptom assessment system|YavfO|P|2012-10-01
+XaZNP|EuroQol five dimension self-report questionnaire|YavUP|P|2012-10-01
+XaZNP|EQ-5D (EuroQol five dimension) self-report questionnaire|YavUQ|S|2012-10-01
+XaZJo|Edmonton frail scale|YavRP|P|2012-10-01
+XaZb3|Assessment scales F|YaveD|P|2012-10-01
+XaZP6|Falls risk assessment tool|YavV3|P|2012-10-01
+XaZP6|FRAT - falls risk assessment tool|YavV4|S|2012-10-01
+XaZb8|Assessment scales G|YaveG|P|2012-10-01
+XaZax|Gold standards framework prognostic indicator|Yave9|P|2012-10-01
+XaZJQ|Generalised anxiety disorder 2 scale|YavR8|P|2012-10-01
+XaZJQ|GAD-2 (generalised anxiety disorder 2) scale|YavR9|S|2012-10-01
+XaZb9|Assessment scales H|YaveH|P|2012-10-01
+XaZN4|Heart rate walking speed index|YavU0|P|2012-10-01
+XaZLX|Hypoglycaemia fear survey|YavT9|P|2012-10-01
+XaZbB|Assessment scales I|YaveJ|P|2012-10-01
+XaZcV|Assessment scales J-K|Yavfa|P|2012-10-01
+XaZcS|Kamath and Stothard carpal tunnel syndrome questionnaire|YavfX|P|2012-10-01
+XaZcZ|Assessment scales M|Yavfe|P|2012-10-01
+XaZUh|Modified elderly mobility scale|YavYQ|P|2012-10-01
+XaZGe|Modified Rankin scale|YavOs|P|2012-10-01
+XaZcY|Assessment scales L|Yavfd|P|2012-10-01
+XaZYZ|Lindop Parkinson's assessment scale|YavbC|P|2012-10-01
+XaZKs|Lung function questionnaire|YavUL|P|2012-10-01
+XaZKs|LFQ - lung function questionnaire|YavUM|S|2012-10-01
+XaZca|Assessment scales N|Yavff|P|2012-10-01
+XaZJd|National Cancer Institute breast cancer risk assessment tool|YavRM|P|2012-10-01
+XaZcb|Assessment scales O|Yavfg|P|2012-10-01
+XaZjD|Obesity and weight loss quality of life questionnaire|Yavj5|P|2012-10-01
+XaZbs|Assessment scales P|Yavf9|P|2012-10-01
+XaZgc|Pelvic organ prolapse symptom score|YaviI|P|2012-10-01
+XaZgc|POP-SS - pelvic organ prolapse symptom score|YaviJ|S|2012-10-01
+XaZeN|Post-traumatic stress disorder impact of events scale|Yavgx|P|2012-10-01
+XaZJN|Patient health questionnaire 2|YavR6|P|2012-10-01
+XaZJN|PHQ-2 - patient health questionnaire 2|YavR7|S|2012-10-01
+XaZbt|Assessment scales Q|YavfA|P|2012-10-01
+XaZfF|QThrombosis risk calculator|YavhX|P|2012-10-01
+XaZfC|QKidney disease risk calculator|YavhW|P|2012-10-01
+XaZeq|QCancer risk calculator|YavhO|P|2012-10-01
+XaZew|QCancer pancreatic cancer risk calculator|YavhU|P|2012-10-01
+XaZev|QCancer ovarian cancer risk calculator|YavhT|P|2012-10-01
+XaZeu|QCancer renal cancer risk calculator|YavhS|P|2012-10-01
+XaZet|QCancer gastro-oesophageal cancer risk calculator|YavhR|P|2012-10-01
+XaZes|QCancer lung cancer risk calculator|YavhQ|P|2012-10-01
+XaZer|QCancer colorectal cancer risk calculator|YavhP|P|2012-10-01
+XaZeJ|QFracture risk calculator|Yavgv|P|2012-10-01
+XaZbu|Assessment scales R|YavfB|P|2012-10-01
+XaZbv|Assessment scales S|YavfC|P|2012-10-01
+XaZcv|Assessment scales Sa-Sl|Yavft|P|2012-10-01
+XaZe4|Short health anxiety inventory|Yavgi|P|2012-10-01
+XaZcu|Assessment scales Sm-Sz|Yavfs|P|2012-10-01
+XaZc0|Assessment scales T|YavfF|P|2012-10-01
+XaZc4|Assessment scales U-Z|YavfI|P|2012-10-01
+XaZjZ|Weight-related symptom measure|YavjC|P|2012-10-01
+k8fI.|TIMOLOL 1mg/g single-dose eye gel|yz5i1|P|2012-10-01
+k8fH.|TIOPEX 1mg/g single-dose eye gel 0.4g|yz5i0|P|2012-10-01
+gc7D.|FARAMSIL 400micrograms m/r tablets|yz5jY|P|2012-10-01
+c19A.|NEOVENT 25micrograms CFC-free inhaler|yz5jN|P|2012-10-01
+du7d.|NICASSIST 7mg/24hours patches|yz5q1|P|2012-10-01
+du7e.|NICASSIST 14mg/24hours patches|yz5q2|P|2012-10-01
+du7f.|NICASSIST 21mg/24hours patches|yz5q3|P|2012-10-01
+dy2I.|NIMVASTID 6mg capsules|yz5jV|P|2012-10-01
+dy2F.|NIMVASTID 1.5mg capsules|yz5jS|P|2012-10-01
+dy2G.|NIMVASTID 3mg capsules|yz5jT|P|2012-10-01
+dy2H.|NIMVASTID 4.5mg capsules|yz5jU|P|2012-10-01
+d4rN.|ZALASTA 15mg dispersible tablets|yz5hD|P|2012-10-01
+d4rO.|ZALASTA 20mg dispersible tablets|yz5hE|P|2012-10-01
+d4rP.|ZALASTA 10mg tablets|yz5hF|P|2012-10-01
+d4rG.|ZALASTA 2.5mg tablets|yz5h6|P|2012-10-01
+d4rM.|ZALASTA 10mg dispersible tablets|yz5hC|P|2012-10-01
+d4rL.|ZALASTA 5mg dispersible tablets|yz5hB|P|2012-10-01
+d4rK.|ZALASTA 20mg tablets|yz5hA|P|2012-10-01
+d4rH.|ZALASTA 5mg tablets|yz5h7|P|2012-10-01
+d4rI.|ZALASTA 7.5mg tablets|yz5h8|P|2012-10-01
+d4rJ.|ZALASTA 15mg tablets|yz5h9|P|2012-10-01
+ds24.|REVOCON 25mg tablets|yz5jQ|P|2012-10-01
+d4x..|ASENAPINE|yz5hG|P|2012-10-01
+d4x1.|SYCREST 5mg sublingual tablets|yz5hH|P|2012-10-01
+d4x4.|ASENAPINE 10mg sublingual tablets|yz5hK|P|2012-10-01
+d4x3.|SYCREST 10mg sublingual tablets|yz5hJ|P|2012-10-01
+d4x2.|ASENAPINE 5mg sublingual tablets|yz5hI|P|2012-10-01
+dhq4.|PALONOSETRON 500micrograms capsules|yz5jP|P|2012-10-01
+dhq3.|ALOXI 500micrograms capsules|yz5jO|P|2012-10-01
+dq3s.|LEVODOPA 175mg/CARBIDOPA 43.75mg/ENTACAPONE 200mg tablets|yz5q0|P|2012-10-01
+dq3M.|STALEVO 175mg/43.75mg/200mg tablets|yz5pz|P|2012-10-01
+dqEo.|PRAMIPEXOLE 1.1mg tablets|yz5rW|P|2012-10-01
+dA3..|FAMPRIDINE|yz5hL|P|2012-10-01
+dA32.|FAMPRIDINE 10mg m/r tablets|yz5hN|P|2012-10-01
+dA31.|FAMPYRA 10mg m/r tablets|yz5hM|P|2012-10-01
+d1i..|DEXMEDETOMIDINE|yz5pn|P|2012-10-01
+d1i1.|DEXDOR 200micrograms/2mL concentrate for soln for infusion|yz5po|P|2012-10-01
+d1i2.|DEXMEDETOMIDINE 200micrograms/2mL conc for soln for inj|yz5pp|P|2012-10-01
+d1i6.|DEXMEDETOMIDINE 1mg/10mL concentrate for soln for injection|yz5pt|P|2012-10-01
+d1i4.|DEXMEDETOMIDINE 400micrograms/4mL conc for soln for inj|yz5pr|P|2012-10-01
+d1i5.|DEXDOR 1mg/10mL concentrate for solution for infusion|yz5ps|P|2012-10-01
+d1i3.|DEXDOR 400micrograms/4mL concentrate for soln for infusion|yz5pq|P|2012-10-01
+bi6G.|RAMIPRIL 2.5mg/5mL oral solution|yz5ka|P|2012-10-01
+bk4u.|VALSARTAN 3mg/mL oral solution|yz5pm|P|2012-10-01
+bk4C.|DIOVAN 3mg/mL oral solution|yz5pl|P|2012-10-01
+bxiB.|ATORVASTATIN 20mg chewable tablets|yz5jM|P|2012-10-01
+bxiA.|LIPITOR 20mg chewable tablets|yz5jL|P|2012-10-01
+bxi9.|ATORVASTATIN 10mg chewable tablets|yz5jK|P|2012-10-01
+bxi8.|LIPITOR 10mg chewable tablets|yz5jJ|P|2012-10-01
+a23P.|GAVISCON DOUBLE ACTION peppermint liquid sachets|yz5u7|P|2012-10-01
+a23O.|GAVISCON peppermint flavour chewable tablets|yz5jE|P|2012-10-01
+a22w.|ACIDEX MAX STRENGTH HEARTBURN RELIEF peppermint susp 500mL|yz5u3|P|2012-10-01
+a22z.|ACIDEX MAX STRENGTH HEARTBURN RELIEF aniseed oral susp 500mL|yz5u6|P|2012-10-01
+a22y.|ACIDEX MAX STRENGTH HEARTBURN RELIEF aniseed oral susp 250mL|yz5u5|P|2012-10-01
+a22x.|ACIDEX MAX STRENGTH HEARTBURN RELIEF peppermint susp 250mL|yz5u4|P|2012-10-01
+aa3g.|SALOFALK 3g/sachet m/r granules|yz5kV|P|2012-10-01
+aa3h.|MESALAZINE 3g/sachet m/r granules|yz5kW|P|2012-10-01
+ae1B.|LACTULOSE 10g/15mL oral solution sachet|yz5kZ|P|2012-10-01
+aw16.|ORLISTAT 27mg chewable tablets|yz5jG|P|2012-10-01
+aw15.|ALLI 27mg chewable tablets|yz5jF|P|2012-10-01
+c8nM.|CETIRIZINE 10mg capsules|yz5u9|P|2012-10-01
+c8nL.|BENADRYL ALLERGY LIQUID RELEASE 10mg capsules|yz5u8|P|2012-10-01
+j2oP.|VOLTAROL ACTIVE 4% spray 15mL|yz5qj|P|2012-10-01
+j2oQ.|VOLTAROL ACTIVE 4% spray 30mL|yz5qk|P|2012-10-01
+m28r.|AQUAMAX wash 250g|yz5rv|P|2012-10-01
+m28l.|ARIPRO mousse 250mL|yz5i2|P|2012-10-01
+m28m.|DEXERYL cream 500g|yz5jk|P|2012-10-01
+m28n.|AQUAMAX cream 30g|yz5rr|P|2012-10-01
+m28o.|AQUAMAX cream 100g|yz5rs|P|2012-10-01
+m28p.|AQUAMAX cream 500g|yz5rt|P|2012-10-01
+m28q.|AQUAMAX wash 30g|yz5ru|P|2012-10-01
+m23U.|ZERODERM ointment 500g|yz5ua|P|2012-10-01
+m23Q.|THIRTY:30 ointment 125g|yz5qn|P|2012-10-01
+m23R.|THIRTY:30 ointment 250g|yz5qo|P|2012-10-01
+m23S.|THIRTY:30 ointment 500g|yz5qp|P|2012-10-01
+m23T.|ZERODERM ointment 125g|yz5uZ|P|2012-10-01
+m22Q.|FIFTY:50 ointment 500g|yz5qm|P|2012-10-01
+m22P.|FIFTY:50 ointment 250g|yz5ql|P|2012-10-01
+m24X.|FLEXITOL 10% cream 500g|yz5jj|P|2012-10-01
+m24W.|FLEXITOL 10% cream 150g|yz5ji|P|2012-10-01
+egCF.|EVOXIL 500mg tablets|yz5jW|P|2012-10-01
+g42p.|CLOTRIMAZOLE 500mg vaginal capsules|yz5qA|P|2012-10-01
+g42K.|CANESTEN 500mg soft gel pessaries|yz5q9|P|2012-10-01
+eh8m.|AZOCAN-P 150mg capsules|yz5q4|P|2012-10-01
+eiK7.|NEVIRAPINE 50mg m/r tablets|yz5hR|P|2012-10-01
+eiK8.|VIRAMUNE 400mg m/r tablets|yz5hS|P|2012-10-01
+eiK9.|NEVIRAPINE 400mg m/r tablets|yz5hT|P|2012-10-01
+eiK5.|NEVIRAPINE 100mg m/r tablets|yz5hP|P|2012-10-01
+eiK4.|VIRAMUNE 100mg m/r tablets|yz5hO|P|2012-10-01
+eiK6.|VIRAMUNE 50mg m/r tablets|yz5hQ|P|2012-10-01
+eip..|RILPIVIRINE|yz5kf|P|2012-10-01
+eip2.|RILPIVIRINE 25mg tablets|yz5kh|P|2012-10-01
+eip1.|EDURANT 25mg tablets|yz5kg|P|2012-10-01
+eio..|TELAPREVIR|yz5hU|P|2012-10-01
+eio2.|TELAPREVIR 375mg tablets|yz5hW|P|2012-10-01
+eio1.|INCIVO 375mg tablets|yz5hV|P|2012-10-01
+eim4.|ETRAVIRINE 200mg tablets|yz5q6|P|2012-10-01
+eim3.|INTELENCE 200mg tablets|yz5q5|P|2012-10-01
+eiq..|EMTRICITABINE/RILPIVIRINE/TENOFOVIR|yz5ki|P|2012-10-01
+eiq2.|EMTRICITABINE/RILPIVIRINE/TENOFOVIR DISOPR 200/25/245mg tabs|yz5kk|P|2012-10-01
+eiq1.|EVIPLERA 200mg/25mg/245mg tablets|yz5kj|P|2012-10-01
+mik4.|PRONTOSAN WOUND GEL X 250g|yz5qr|P|2012-10-01
+dj3e.|PREFIBIN 8mg sublingual tablets|yz5pw|P|2012-10-01
+dj3d.|PREFIBIN 2mg sublingual tablets|yz5pv|P|2012-10-01
+dj3c.|PREFIBIN 400micrograms sublingual tablets|yz5pu|P|2012-10-01
+dj3g.|TEPHINE 400micrograms sublingual tablets|yz5py|P|2012-10-01
+dj3f.|TEPHINE 200micrograms sublingual tablets|yz5px|P|2012-10-01
+oa2K.|BUFYL 1mg/2micrograms/mL solution for infusion 250mL|yz5s7|P|2012-10-01
+oa2L.|BUFYL 1mg/2micrograms/mL solution for infusion 500mL|yz5s8|P|2012-10-01
+oa2O.|BUFYL 1.25mg/2micrograms/mL solution for infusion 500mL|yz5sB|P|2012-10-01
+oa2N.|BUPIVACAINE HCL+FENTANYL 1.25mg/2micrograms/mL injection|yz5sA|P|2012-10-01
+oa2M.|BUFYL 1.25mg/2micrograms/mL solution for infusion 250mL|yz5s9|P|2012-10-01
+oa1P.|HYDRO-CAINE gel 6mL|yz5s5|P|2012-10-01
+oa1S.|OPTILUBE ACTIVE gel 11mL|yz5uc|P|2012-10-01
+oa1R.|OPTILUBE ACTIVE gel 6mL|yz5ub|P|2012-10-01
+oa1Q.|HYDRO-CAINE gel 11mL|yz5s6|P|2012-10-01
+oa3q.|PRILOCAINE+OCTAPRESSIN 3% self aspirating cartridges 2.2mL|yz5jr|P|2012-10-01
+oa3p.|PRILOCAINE+OCTAPRESSIN 3% cartridges 2.2mL|yz5jq|P|2012-10-01
+m367.|ARJUN 2% cream 500g|yz5kq|P|2012-10-01
+m365.|ARJUN 1% cream 100g|yz5ko|P|2012-10-01
+m366.|ARJUN 1% cream 500g|yz5kp|P|2012-10-01
+m364.|ARJUN 0.5% cream 500g|yz5kn|P|2012-10-01
+iddM.|VITAQUICK powder 6kg|yz5hi|P|2012-10-01
+iddL.|VITAQUICK powder 2kg|yz5hh|P|2012-10-01
+iddK.|VITAQUICK powder 300g|yz5hg|P|2012-10-01
+idbI.|HCU COOLER RED liquid 130mL|yz5qO|P|2012-10-01
+idbH.|HCU GEL 24g/sachet powder|yz5qN|P|2012-10-01
+idbJ.|HCU EXPRESS20 34g/sachet unflavoured powder|yz5uU|P|2012-10-01
+id6O.|VITAPRO powder 250g|yz5he|P|2012-10-01
+id6P.|VITAPRO powder 2kg|yz5hf|P|2012-10-01
+idfG.|MSUD GEL 24g/sachet powder|yz5qQ|P|2012-10-01
+idfH.|MSUD EXPRESS20 34g/sachet unflavoured powder|yz5uV|P|2012-10-01
+idBz.|PKU COOLER15 RED liquid 130mL|yz5qK|P|2012-10-01
+idBt.|PKU-GEL 24g/sachet powder|yz5qE|P|2012-10-01
+idBu.|PKU-GEL 24g/sachet raspberry powder|yz5qF|P|2012-10-01
+idBv.|PKU-GEL 24g/sachet orange powder|yz5qG|P|2012-10-01
+idBw.|PKU COOLER10 RED liquid 87mL|yz5qH|P|2012-10-01
+idBx.|PKU COOLER15 ORANGE liquid 130mL|yz5qI|P|2012-10-01
+idBy.|PKU COOLER15 PURPLE liquid 130mL|yz5qJ|P|2012-10-01
+idF..|PHENYLKETONURIA FOOD (4)|yz5qL|P|2012-10-01
+idF1.|PKU COOLER20 RED liquid 174mL|yz5qM|P|2012-10-01
+idF2.|PKU EXPRESS20 34g/sachet unflavoured powder|yz5uM|P|2012-10-01
+idF3.|PKU EXPRESS20 34g/sachet orange powder|yz5uN|P|2012-10-01
+idF4.|PKU EXPRESS20 34g/sachet lemon powder|yz5uO|P|2012-10-01
+idF9.|PROMIN X-POT LP rogan style curry 60g|yz5uT|P|2012-10-01
+idF6.|PROMIN X-POT LP all day scramble 60g|yz5uQ|P|2012-10-01
+idF7.|PROMIN X-POT LP beef and tomato 60g|yz5uR|P|2012-10-01
+idF8.|PROMIN X-POT LP chip shop style curry 60g|yz5uS|P|2012-10-01
+idF5.|PKU EXPRESS20 34g/sachet tropical powder|yz5uP|P|2012-10-01
+idCs.|WARBURTONS GF brown sub bread rolls|yz5rn|P|2012-10-01
+idCm.|NAIRN'S GF porridge oats 500g|yz5rh|P|2012-10-01
+idCn.|GENIUS GF sliced white bread 600g|yz5ri|P|2012-10-01
+idCo.|GENIUS GF sliced brown bread 600g|yz5rj|P|2012-10-01
+idCp.|WARBURTONS GF sliced white bread 400g|yz5rk|P|2012-10-01
+idCq.|WARBURTONS GF sliced brown bread 400g|yz5rl|P|2012-10-01
+idCr.|WARBURTONS GF white sub bread rolls|yz5rm|P|2012-10-01
+mifq.|CLINIPOD sodium chloride 0.9% sterile solution 20mL|yz5qq|P|2012-10-01
+lA14.|MANDANOL 0.9% nose drops 10mL|yz5rq|P|2012-10-01
+ip3z.|COLECALCIFEROL 800iu capsules|yz5qi|P|2012-10-01
+ip3w.|ACCRETE D3 tablets|yz5jg|P|2012-10-01
+ip3x.|CALCIUM CARBONATE+COLECALCIFEROL 1.5g/10micrograms tablets|yz5jh|P|2012-10-01
+ip3y.|FULTIUM-D3 800iu capsules|yz5qh|P|2012-10-01
+i319.|HYDROXOCOBALAMIN 5g powder for solution for infusion|yz5hd|P|2012-10-01
+i318.|CYANOKIT 5g powder for solution for infusion|yz5hc|P|2012-10-01
+idjo.|TYR EXPRESS20 34g/sachet unflavoured powder|yz5uW|P|2012-10-01
+idjk.|TYR GEL 24g/sachet powder|yz5qR|P|2012-10-01
+idjl.|GA GEL 24g/sachet powder|yz5qS|P|2012-10-01
+idjm.|TYR COOLER ORANGE liquid 130mL|yz5qT|P|2012-10-01
+idjn.|TYR COOLER RED liquid 130mL|yz5qU|P|2012-10-01
+id5q.|NEOCATE SPOON 37g/sachet powder|yz5uL|P|2012-10-01
+iE13.|CINRYZE 500units powder+solvent for solution for injection|yz5qD|P|2012-10-01
+ieF..|MORE SUPPLEMENT & COMPLETE FOODS [10]|yz5ht|P|2012-10-01
+ieF1.|VITAJOULE powder 500g|yz5hu|P|2012-10-01
+ieFL.|INFATRINI liquid 200mL|yz5uY|P|2012-10-01
+ieF3.|VITAJOULE powder 25kg|yz5hw|P|2012-10-01
+ieF4.|PAEDIASURE PLUS FIBRE banana liquid 200mL|yz5je|P|2012-10-01
+ieF5.|PAEDIASURE PLUS FIBRE strawberry liquid 200mL|yz5jf|P|2012-10-01
+ieF6.|FRESUBIN 2KCAL apricot-peach liquid 200mL|yz5qV|P|2012-10-01
+ieF7.|FRESUBIN 2KCAL cappuccino liquid 200mL|yz5qW|P|2012-10-01
+ieF8.|FRESUBIN 2KCAL neutral liquid 200mL|yz5qX|P|2012-10-01
+ieF9.|FRESUBIN 2KCAL toffee liquid 200mL|yz5qY|P|2012-10-01
+ieFA.|FRESUBIN 2KCAL FIBRE lemon liquid 200mL|yz5qZ|P|2012-10-01
+ieFB.|FRESUBIN 2KCAL FIBRE cappuccino liquid 200mL|yz5qa|P|2012-10-01
+ieFC.|FRESUBIN 2KCAL FIBRE vanilla liquid 200mL|yz5qb|P|2012-10-01
+ieFD.|RESOURCE OPTIFIBRE powder 250g|yz5qc|P|2012-10-01
+ieFE.|RESOURCE OPTIFIBRE 10g/sachet powder|yz5qd|P|2012-10-01
+ieFF.|FRESUBIN 2KCAL FIBRE neutral liquid 200mL|yz5qe|P|2012-10-01
+ieFG.|FRESUBIN 2KCAL FIBRE apricot-peach liquid 200mL|yz5qf|P|2012-10-01
+ieFH.|TWOCAL unflavoured liquid 1L (ready to hang)|yz5qg|P|2012-10-01
+ieFI.|VITAL 1.5KCAL vanilla liquid 200mL|yz5ro|P|2012-10-01
+ieFJ.|VITAL 1.5KCAL vanilla liquid 1L (ready to hang)|yz5rp|P|2012-10-01
+ieFK.|NUTRISON 800 COMPLETE MULTIFIBRE liquid 1L(bag)|yz5uX|P|2012-10-01
+ieF2.|VITAJOULE powder 2.5kg|yz5hv|P|2012-10-01
+ieEz.|FRESUBIN YOCREME biscuit yoghurt style dessert 125g|yz5hs|P|2012-10-01
+ieEp.|FRESUBIN CREME chocolate dessert 125g|yz5hj|P|2012-10-01
+ieEq.|FRESUBIN CREME praline dessert 125g|yz5hk|P|2012-10-01
+ieEr.|FRESUBIN 1500 COMPLETE liquid 1.5L(bag)|yz5hl|P|2012-10-01
+ieEt.|SURVIMED OPD liquid 1L(bag)|yz5hm|P|2012-10-01
+ieEu.|SURVIMED OPD vanilla liquid 200mL|yz5hn|P|2012-10-01
+ieEv.|FRESUBIN YOCREME neutral yoghurt style dessert 125g|yz5ho|P|2012-10-01
+ieEw.|FRESUBIN YOCREME lemon yoghurt style dessert 125g|yz5hp|P|2012-10-01
+ieEx.|FRESUBIN YOCREME apricot+peach yoghurt style dessert 125g|yz5hq|P|2012-10-01
+ieEy.|FRESUBIN YOCREME raspberry yoghurt style dessert 125g|yz5hr|P|2012-10-01
+idcT.|PEPTAMEN JUNIOR ADVANCE liquid 500mL|yz5qP|P|2012-10-01
+ga9y.|ULIPRISTAL ACETATE 5mg tablets|yz5uF|P|2012-10-01
+ga92.|ESMYA 5mg tablets|yz5uE|P|2012-10-01
+g83H.|ELEVIN tablets|yz5jX|P|2012-10-01
+aa95.|BUDESONIDE 9mg/sachet gastro-resistant granules|yz5kY|P|2012-10-01
+aa94.|BUDENOFALK 9mg/sachet gastro-resistant granules|yz5kX|P|2012-10-01
+fo74.|ZOMETA 4mg/100mL solution for infusion|yz5hX|P|2012-10-01
+fo7w.|ZOLEDRONIC ACID 4mg/100mL solution for infusion|yz5hY|P|2012-10-01
+fu34.|TERIPARATIDE 250mcg/mL solution for inj prefilled pen 2.4mL|yz5q8|P|2012-10-01
+fu33.|FORSTEO 250micrograms/mL soln for inj prefilled pen 2.4mL|yz5q7|P|2012-10-01
+fk1j.|OVITRELLE 250micrograms/0.5mL solution for injection p/f pen|yz5rX|P|2012-10-01
+fk1k.|CHORIOGONADOTROPIN ALFA 250micrograms/0.5mL injection pen|yz5rY|P|2012-10-01
+ft83.|JANUVIA 25mg tablets|yz5uB|P|2012-10-01
+ft8y.|SITAGLIPTIN 50mg tablets|yz5uD|P|2012-10-01
+ft82.|JANUVIA 50mg tablets|yz5uA|P|2012-10-01
+ft8x.|SITAGLIPTIN 25mg tablets|yz5uC|P|2012-10-01
+bs62.|XARELTO 15mg tablets|yz5kb|P|2012-10-01
+bs6x.|RIVAROXABAN 20mg tablets|yz5kd|P|2012-10-01
+bs6y.|RIVAROXABAN 15mg tablets|yz5ke|P|2012-10-01
+bs63.|XARELTO 20mg tablets|yz5kc|P|2012-10-01
+h3H..|TEGAFUR|yz5uG|P|2012-10-01
+h3H1.|TEYSUNO 15mg/4.35mg/11.8mg capsules|yz5uH|P|2012-10-01
+h3H4.|TEGAFUR+GIMERACIL+OTERACIL 20mg/5.8mg/15.8mg capsules|yz5uK|P|2012-10-01
+h3H3.|TEGAFUR+GIMERACIL+OTERACIL 15mg/4.35mg/11.8mg capsules|yz5uJ|P|2012-10-01
+h3H2.|TEYSUNO 20mg/5.8mg/15.8mg capsules|yz5uI|P|2012-10-01
+h5F8.|POTACTASOL 4mg powder for conc for solution for infusion|yz5qB|P|2012-10-01
+h5F9.|POTACTASOL 1mg powder for conc for solution for infusion|yz5qC|P|2012-10-01
+hhX..|CATUMAXOMAB|yz5jZ|P|2012-10-01
+hhX1.|REMOVAB 50mcg/0.5mL concentrate for soln for infusion pfs|yz5ja|P|2012-10-01
+hhX4.|CATUMAXOMAB 10mcg/0.1mL conc for solution for infusion pfs|yz5jd|P|2012-10-01
+hhX3.|REMOVAB 10mcg/0.1mL concentrate for soln for infusion pfs|yz5jc|P|2012-10-01
+hhX2.|CATUMAXOMAB 50mcg/0.5mL conc for solution for infusion pfs|yz5jb|P|2012-10-01
+hhY..|VEMURAFENIB|yz5rZ|P|2012-10-01
+hhY2.|VEMURAFENIB 240mg tablets|yz5rb|P|2012-10-01
+hhY1.|ZELBORAF 240mg tablets|yz5ra|P|2012-10-01
+hhQ3.|VOTUBIA 2.5mg tablets|yz5hZ|P|2012-10-01
+hhQx.|EVEROLIMUS 2.5mg tablets|yz5hb|P|2012-10-01
+hhQ4.|VOTUBIA 5mg tablets|yz5ha|P|2012-10-01
+hhZ..|VANDETANIB|yz5rc|P|2012-10-01
+hhZ1.|CAPRELSA 100mg tablets|yz5rd|P|2012-10-01
+hhZ4.|VANDETANIB 300mg tablets|yz5rg|P|2012-10-01
+hhZ3.|CAPRELSA 300mg tablets|yz5rf|P|2012-10-01
+hhZ2.|VANDETANIB 100mg tablets|yz5re|P|2012-10-01
+h896.|ETANERCEPT 10mg powder+solvent for solution for injection|yz5kl|P|2012-10-01
+h89t.|ENBREL 10mg powder+solvent for solution for injection|yz5km|P|2012-10-01
+n47D.|FLUENZ nasal suspension 0.2mL|yz5kv|P|2012-10-01
+n47E.|INFLUENZA VACCINE (LIVE ATTENUATED) nasal suspension 0.2mL|yz5kw|P|2012-10-01
+n4v4.|ZOSTAVAX pdr+solvent for suspension for injection pfs 0.65mL|yz5qt|P|2012-10-01
+n567.|GAMUNEX 20g/200mL solution for infusion|yz5jp|P|2012-10-01
+n565.|GAMUNEX 5g/50mL solution for infusion|yz5jn|P|2012-10-01
+n566.|GAMUNEX 10g/100mL solution for infusion|yz5jo|P|2012-10-01
+n564.|GAMUNEX 1g/10mL solution for infusion|yz5jm|P|2012-10-01
+ds3C.|XEOMIN 50units powder for solution for injection|yz5jR|P|2012-10-01
+b164.|DIGOXIN IMMUNE FAB (ovine) 40mg powder for soln for infusion|yz5jI|P|2012-10-01
+b163.|DIGIFAB 40mg powder for solution for infusion|yz5jH|P|2012-10-01
+mb2L.|LINICIN lotion 15 min 100mL|yz5jl|P|2012-10-01
+yz3i.|2011-12-01            WHALIGOE|yz5jD|P|2012-10-01
+yz3j.|2012-01-01            CAITLYNN|yz5kU|P|2012-10-01
+yz3k.|2012-02-01            CARLOTTA|yz5pk|P|2012-10-01
+yz3l.|2012-03-01            CAROLINE|yz5rV|P|2012-10-01
+yz3m.|2012-04-01            CASANDRA|yz5u2|P|2012-10-01
+yz3n.|2012-05-01            CATHLEEN|yz5vQ|P|2012-10-01
+k78..|TROPICAMIDE+PHENYLEPHRINE|yz5hx|P|2012-10-01
+k782.|TROPICAMIDE+PHENYLEPHRINE HCL 0.28mg/5.4mg ophthalmic insert|yz5hz|P|2012-10-01
+k781.|MYDRIASERT 0.28mg/5.4mg ophthalmic insert|yz5hy|P|2012-10-01
+pQ6g.|DERMASILK 7-10 years girls briefs|yz5lG|P|2012-10-01
+pQ6a.|DERMASILK extra small/small adult male boxer shorts|yz5lA|P|2012-10-01
+pQ6b.|DERMASILK medium/large adult male boxer shorts|yz5lB|P|2012-10-01
+pQ6c.|DERMASILK x.large/xx.large adult male boxer shorts|yz5lC|P|2012-10-01
+pQ6d.|DERMASILK 3-6 years boys briefs|yz5lD|P|2012-10-01
+pQ6e.|DERMASILK 7-10 years boys briefs|yz5lE|P|2012-10-01
+pQ6f.|DERMASILK 3-6 years girls briefs|yz5lF|P|2012-10-01
+p5vz.|JOBST COMPRIFORE 18cm-25cm 4 layer compression bandage kit|yz5sD|P|2012-10-01
+puqJ.|MENDOR DISCREET blood glucose meter|yz5vB|P|2012-10-01
+puqF.|GLUCOLAB blood glucose meter|yz5pe|P|2012-10-01
+puqG.|ELEMENT blood glucose meter|yz5pf|P|2012-10-01
+puqH.|BGSTAR blood glucose meter|yz5rC|P|2012-10-01
+puqI.|CONTOUR XT blood glucose meter|yz5vA|P|2012-10-01
+purC.|MENDOR DISCREET blood glucose testing strip cartridge|yz5vD|P|2012-10-01
+pur8.|GLUCOLAB blood glucose testing strip|yz5pg|P|2012-10-01
+pur9.|ELEMENT blood glucose testing strip|yz5ph|P|2012-10-01
+purA.|BGSTAR blood glucose testing strip|yz5rD|P|2012-10-01
+purB.|CONTOUR NEXT blood glucose testing strip|yz5vC|P|2012-10-01
+pA3i.|INDEPENDENCE VAP1 wound drainage bags and dressings|yz5il|P|2012-10-01
+pA98.|MEPILEX BORDER SACRUM 15cmx15cm silicone dressing|yz5l9|P|2012-10-01
+pA8K.|VAC VIA 7-day kit|yz5v7|P|2012-10-01
+pA8J.|PICO 10cmx20cm dressing|yz5im|P|2012-10-01
+pgE..|GELLHORN PESSARY|yz5tb|P|2012-10-01
+pgE1.|MILEX 38mm silicone gellhorn pessary|yz5tc|P|2012-10-01
+pgEK.|MILEX 95mm silicone short stem gellhorn pessary|yz5tv|P|2012-10-01
+pgE3.|MILEX 51mm silicone gellhorn pessary|yz5te|P|2012-10-01
+pgE4.|MILEX 57mm silicone gellhorn pessary|yz5tf|P|2012-10-01
+pgE5.|MILEX 64mm silicone gellhorn pessary|yz5tg|P|2012-10-01
+pgE6.|MILEX 70mm silicone gellhorn pessary|yz5th|P|2012-10-01
+pgE7.|MILEX 76mm silicone gellhorn pessary|yz5ti|P|2012-10-01
+pgE8.|MILEX 83mm silicone gellhorn pessary|yz5tj|P|2012-10-01
+pgE9.|MILEX 89mm silicone gellhorn pessary|yz5tk|P|2012-10-01
+pgEA.|MILEX 95mm silicone gellhorn pessary|yz5tl|P|2012-10-01
+pgEB.|MILEX 38mm silicone short stem gellhorn pessary|yz5tm|P|2012-10-01
+pgEC.|MILEX 44mm silicone short stem gellhorn pessary|yz5tn|P|2012-10-01
+pgED.|MILEX 51mm silicone short stem gellhorn pessary|yz5to|P|2012-10-01
+pgEE.|MILEX 57mm silicone short stem gellhorn pessary|yz5tp|P|2012-10-01
+pgEF.|MILEX 64mm silicone short stem gellhorn pessary|yz5tq|P|2012-10-01
+pgEG.|MILEX 70mm silicone short stem gellhorn pessary|yz5tr|P|2012-10-01
+pgEH.|MILEX 76mm silicone short stem gellhorn pessary|yz5ts|P|2012-10-01
+pgEI.|MILEX 83mm silicone short stem gellhorn pessary|yz5tt|P|2012-10-01
+pgEJ.|MILEX 89mm silicone short stem gellhorn pessary|yz5tu|P|2012-10-01
+pgE2.|MILEX 44mm silicone gellhorn pessary|yz5td|P|2012-10-01
+ph8b.|OMNICAN FINE 6mmx0.25mm(31gauge) pen needle|yz5r3|P|2012-10-01
+ph8c.|OMNICAN FINE 8mmx0.25mm(31gauge) pen needle|yz5r4|P|2012-10-01
+ph8d.|OMNICAN FINE 10mmx0.3mm(30gauge) pen needle|yz5r5|P|2012-10-01
+ph8e.|OMNICAN FINE 12mmx0.33mm(29gauge) pen needle|yz5r6|P|2012-10-01
+ph8f.|MYLIFE CLICKFINE 4.5mmx0.25mm(31gauge) pen needle|yz5r7|P|2012-10-01
+ph8g.|UNIFINE PENTIPS 5mm(31gauge) needle|yz5tw|P|2012-10-01
+ph8h.|UNIFINE PENTIPS PLUS 5mm(31gauge) needle+remover|yz5tx|P|2012-10-01
+ph8i.|UNIFINE PENTIPS PLUS 6mm(31gauge) needle+remover|yz5ty|P|2012-10-01
+ph8j.|UNIFINE PENTIPS PLUS 8mm(31gauge) needle+remover|yz5tz|P|2012-10-01
+ph8k.|UNIFINE PENTIPS PLUS 12mm(29gauge) needle+remover|yz5u0|P|2012-10-01
+ph8l.|BD AUTOSHIELD DUO 5mm(30gauge) pen needle|yz5u1|P|2012-10-01
+pm24.|INSUJET 012003GBSP start pack needle-free drug delivery sys|yz5pY|P|2012-10-01
+pm29.|INSUJET 01207GB1510 10mL vial adaptor pack|yz5pd|P|2012-10-01
+pm26.|INSUJET 012007GBSP start pack needle-free drug delivery sys|yz5pa|P|2012-10-01
+pm27.|INSUJET 012070GB15 nozzle and piston pack|yz5pb|P|2012-10-01
+pm28.|INSUJET 012071GB1503 3mL cartridge adaptor pack|yz5pc|P|2012-10-01
+pm25.|INSUJET 012005GBSP start pack needle-free drug delivery sys|yz5pZ|P|2012-10-01
+pN57.|JOBST ELVAREX SOFT L3-08-08 C3(34-46mmHg) mtm body bandage|yz5qx|P|2012-10-01
+pN4N.|JOBST ELVAREX SOFT L-A008S non-std colour for lower limb gmt|yz5qu|P|2012-10-01
+pN4O.|JOBST ELVAREX SOFT U-A007S non-std colour for upper limb gmt|yz5qv|P|2012-10-01
+pN4P.|JOBST ELVAREX SOFT U1-A015 C1(14-18mmHg) mtm seamless finger|yz5qw|P|2012-10-01
+pgA6.|MILEX size 0/44mm silicone ring pessary|yz5tR|P|2012-10-01
+pgA7.|MILEX size 1/51mm silicone ring pessary|yz5tS|P|2012-10-01
+pgA8.|MILEX size 2/57mm silicone ring pessary|yz5tT|P|2012-10-01
+pgA9.|MILEX size 3/64mm silicone ring pessary|yz5tU|P|2012-10-01
+pgAF.|MILEX size 9/102mm silicone ring pessary|yz5ta|P|2012-10-01
+pgAB.|MILEX size 5/76mm silicone ring pessary|yz5tW|P|2012-10-01
+pgAC.|MILEX size 6/83mm silicone ring pessary|yz5tX|P|2012-10-01
+pgAD.|MILEX size 7/89mm silicone ring pessary|yz5tY|P|2012-10-01
+pgAE.|MILEX size 8/95mm silicone ring pessary|yz5tZ|P|2012-10-01
+pgAA.|MILEX size 4/70mm silicone ring pessary|yz5tV|P|2012-10-01
+pp6..|PRESSURE RELIEF/LOW FRICTION DEVICE|yz5it|P|2012-10-01
+pp61.|ADERMA standard heel protective pad|yz5iu|P|2012-10-01
+pp62.|ADERMA extra large heel protective pad|yz5iv|P|2012-10-01
+pp63.|ADERMA sacrum/ankle wrap protective pad|yz5iw|P|2012-10-01
+pp68.|ADERMA 30cmx5cmx0.3cm strip protective pad|yz5j1|P|2012-10-01
+pp65.|ADERMA 10cmx10cmx1.2cm sheet protective pad|yz5iy|P|2012-10-01
+pp66.|ADERMA 20cmx20cmx0.3cm sheet protective pad|yz5iz|P|2012-10-01
+pp67.|ADERMA 50cmx2.5cmx0.3cm strip protective pad|yz5j0|P|2012-10-01
+pp64.|ADERMA 10cmx10cmx0.3cm sheet protective pad|yz5ix|P|2012-10-01
+p5w6.|3M KIND REMOVAL 5cmx5m silicone tape|yz5l8|P|2012-10-01
+p5w5.|3M KIND REMOVAL 2.5cmx5m silicone tape|yz5l7|P|2012-10-01
+p1Fz.|ALGICELL AG 1.9cmx30.5cm dressing|yz5iA|P|2012-10-01
+p1LS.|MEDIHONEY ANTIBACTERIAL HONEY APINATE 5cmx5cm dressing|yz5iB|P|2012-10-01
+p1LU.|MEDIHONEY barrier cream 2g sachet|yz5sC|P|2012-10-01
+p1LT.|MEDIHONEY ANTIBACTERIAL HONEY APINATE 1.9cmx30cm dressing|yz5iC|P|2012-10-01
+mn7R.|CUTIMED SORBACT HYDROACTIVE 14cmx24cm dressing|yz5s4|P|2012-10-01
+mn77.|DURAFIBER 5cmx5cm dressing|yz5i3|P|2012-10-01
+mn78.|DURAFIBER 10cmx10cm dressing|yz5i4|P|2012-10-01
+mn79.|DURAFIBER 15cmx15cm dressing|yz5i5|P|2012-10-01
+mn7A.|DURAFIBER 4cmx10cm dressing|yz5i6|P|2012-10-01
+mn7B.|DURAFIBER 4cmx20cm dressing|yz5i7|P|2012-10-01
+mn7C.|DURAFIBER 4cmx30cm dressing|yz5i8|P|2012-10-01
+mn7D.|DURAFIBER 2cmx45cm dressing|yz5i9|P|2012-10-01
+mn7E.|URGOCLEAN 5cmx40cm rope dressing+probe|yz5kr|P|2012-10-01
+mn7F.|URGOCLEAN 6cmx6cm dressing|yz5ks|P|2012-10-01
+mn7G.|URGOCLEAN 10cmx10cm dressing|yz5kt|P|2012-10-01
+mn7H.|URGOCLEAN 15cmx20cm dressing|yz5ku|P|2012-10-01
+mn7I.|DRYMAX EXTRA 37cmx56cm dressing|yz5qs|P|2012-10-01
+mn7J.|CUREA P2 11cmx11cm dressing|yz5rw|P|2012-10-01
+mn7K.|CUREA P2 10cmx20cm dressing|yz5rx|P|2012-10-01
+mn7L.|CUREA P2 20cmx20cm dressing|yz5ry|P|2012-10-01
+mn7M.|CUREA P2 20cmx30cm dressing|yz5rz|P|2012-10-01
+mn7N.|CUTIMED SORBACT HYDROACTIVE 7cmx8.5cm dressing|yz5s0|P|2012-10-01
+mn7O.|CUTIMED SORBACT HYDROACTIVE 14cmx14cm dressing|yz5s1|P|2012-10-01
+mn7P.|CUTIMED SORBACT HYDROACTIVE 19cmx19cm dressing|yz5s2|P|2012-10-01
+mn7Q.|CUTIMED SORBACT HYDROACTIVE 24cmx24cm dressing|yz5s3|P|2012-10-01
+p1UA.|SORBION SACHET BORDER 25cmx15cm dressing|yz5uf|P|2012-10-01
+p1U8.|SORBION SACHET BORDER 15cmx15cm dressing|yz5ud|P|2012-10-01
+p1U9.|SORBION SACHET BORDER 25cmx25cm dressing|yz5ue|P|2012-10-01
+p1Z..|DRESSING-CALCIUM ALGINATE 3|yz5iY|P|2012-10-01
+p1Z1.|ALGICELL AG 5cmx5cm dressing|yz5iZ|P|2012-10-01
+p1Z2.|ALGICELL AG 10.8cmx10.8cm dressing|yz5ia|P|2012-10-01
+p1Z3.|ALGICELL AG 10.1cmx20.3cm dressing|yz5ib|P|2012-10-01
+p1Z4.|ALGICELL AG 20.3cmx30.5cm dressing|yz5ic|P|2012-10-01
+p1Z5.|ASKINA CALGITROL AG 10cmx10cm dressing|yz5id|P|2012-10-01
+p1ZB.|CUTIMED ALGINATE 2.5cmx30cm dressing|yz5l6|P|2012-10-01
+p1Z7.|ASKINA CALGITROL AG 20cmx20cm dressing|yz5if|P|2012-10-01
+p1Z8.|CUTIMED ALGINATE 5cmx5cm dressing|yz5l3|P|2012-10-01
+p1Z9.|CUTIMED ALGINATE 10cmx10cm dressing|yz5l4|P|2012-10-01
+p1ZA.|CUTIMED ALGINATE 10cmx20cm dressing|yz5l5|P|2012-10-01
+p1Z6.|ASKINA CALGITROL AG 15cmx15cm dressing|yz5ie|P|2012-10-01
+p1YY.|LYOFOAM MAX 15cmx20cm dressing|yz5l2|P|2012-10-01
+p1Y3.|CILGUARD STANDARD 10cmx10cm dressing|yz5iD|P|2012-10-01
+p1Y4.|CILGUARD STANDARD 15cmx15cm dressing|yz5iE|P|2012-10-01
+p1Y5.|CILGUARD STANDARD 20cmx10cm dressing|yz5iF|P|2012-10-01
+p1Y6.|CILGUARD STANDARD 20cmx20cm dressing|yz5iG|P|2012-10-01
+p1Y7.|CILGUARD STANDARD 20cmx50cm dressing|yz5iH|P|2012-10-01
+p1Y8.|CILGUARD STANDARD 10cmx60cm dressing|yz5iI|P|2012-10-01
+p1Y9.|CILGUARD BORDER 10cmx10cm dressing|yz5iJ|P|2012-10-01
+p1YA.|CILGUARD BORDER 15cmx15cm dressing|yz5iK|P|2012-10-01
+p1YB.|CILGUARD BORDER 20cmx10cm dressing|yz5iL|P|2012-10-01
+p1YC.|CILGUARD BORDER 20cmx20cm dressing|yz5iM|P|2012-10-01
+p1YD.|CILGUARD BORDER 20cmx50cm dressing|yz5iN|P|2012-10-01
+p1YE.|CILGUARD OVERLAP 10cmx10cm dressing|yz5iO|P|2012-10-01
+p1YF.|CILGUARD OVERLAP 15cmx15cm dressing|yz5iP|P|2012-10-01
+p1YG.|CILGUARD OVERLAP 20cmx10cm dressing|yz5iQ|P|2012-10-01
+p1YH.|CILGUARD OVERLAP 20cmx20cm dressing|yz5iR|P|2012-10-01
+p1YI.|ADVAZORB LITE 7.5cmx7.5cm dressing|yz5iS|P|2012-10-01
+p1YJ.|ADVAZORB LITE 10cmx10cm dressing|yz5iT|P|2012-10-01
+p1YK.|ADVAZORB LITE 12.5cmx12.5cm dressing|yz5iU|P|2012-10-01
+p1YL.|ADVAZORB LITE 15cmx15cm dressing|yz5iV|P|2012-10-01
+p1YM.|ADVAZORB LITE 20cmx20cm dressing|yz5iW|P|2012-10-01
+p1YN.|ADVAZORB LITE 10cmx20cm dressing|yz5iX|P|2012-10-01
+p1YO.|ALLEVYN GENTLE BORDER 15cmx15cm dressing|yz5js|P|2012-10-01
+p1YP.|ALLEVYN GENTLE BORDER MULTISITE 17.1cmx17.9cm dressing|yz5jt|P|2012-10-01
+p1YQ.|ADVAZORB 7.5cmx7.5cm non-adhesive dressing|yz5ju|P|2012-10-01
+p1YR.|ADVAZORB 12.5cmx12.5cm non-adhesive dressing|yz5jv|P|2012-10-01
+p1YS.|ADVAZORB 10cmx20cm non-adhesive dressing|yz5jw|P|2012-10-01
+p1YT.|LYOFOAM MAX 10cmx10cm dressing|yz5kx|P|2012-10-01
+p1YU.|LYOFOAM MAX 15cmx15cm dressing|yz5ky|P|2012-10-01
+p1YV.|LYOFOAM MAX 20cmx20cm dressing|yz5kz|P|2012-10-01
+p1YW.|LYOFOAM MAX 7.5cmx8.5cm dressing|yz5l0|P|2012-10-01
+p1YX.|LYOFOAM MAX 10cmx20cm dressing|yz5l1|P|2012-10-01
+ph9P.|GREENLAN 0.35mm(28gauge) lancet|yz5v9|P|2012-10-01
+ph9K.|BGSTAR ULTRA-THIN 0.2mm(33gauge) lancet|yz5r8|P|2012-10-01
+ph9L.|MYLIFE 0.3mm(30gauge) lancet|yz5r9|P|2012-10-01
+ph9M.|MYLIFE MULTICOLOUR 0.3mm(30gauge) lancet|yz5rA|P|2012-10-01
+ph9N.|MYLIFE SAFETY 0.36mm(28gauge) lancet|yz5rB|P|2012-10-01
+ph9O.|MENDOR DISCREET 0.32mm(28gauge) lancet|yz5v8|P|2012-10-01
+pXq..|LOWER LIMB LYMPHOEDEMA GARMENTS(151)|yz5t6|P|2012-10-01
+pXq1.|FARROWWRAP CLASSIC x.small 30mm-40mmHg long legpiece garment|yz5t7|P|2012-10-01
+pXqK.|FARROWWRAP CLASSIC x.lge 30mm-40mmHg short thighpiece garmnt|yz5tQ|P|2012-10-01
+pXq3.|FARROWWRAP CLASSIC medium 30mm-40mmHg long legpiece garment|yz5t9|P|2012-10-01
+pXq4.|FARROWWRAP CLASSIC large 30mm-40mmHg long legpiece garment|yz5tA|P|2012-10-01
+pXq5.|FARROWWRAP CLASSIC x.large 30mm-40mmHg long legpiece garment|yz5tB|P|2012-10-01
+pXq6.|FARROWWRAP CLASSIC XS 30mm-40mmHg regular thighpiece garment|yz5tC|P|2012-10-01
+pXq7.|FARROWWRAP CLASSIC sml 30mm-40mmHg regular thighpiece garmnt|yz5tD|P|2012-10-01
+pXq8.|FARROWWRAP CLASSIC med 30mm-40mmHg regular thighpiece garmnt|yz5tE|P|2012-10-01
+pXq9.|FARROWWRAP CLASSIC lge 30mm-40mmHg regular thighpiece garmnt|yz5tF|P|2012-10-01
+pXqA.|FARROWWRAP CLASSIC XL 30mm-40mmHg regular thighpiece garment|yz5tG|P|2012-10-01
+pXqB.|FARROWWRAP CLASSIC x.sml 30mm-40mmHg long thighpiece garment|yz5tH|P|2012-10-01
+pXqC.|FARROWWRAP CLASSIC small 30mm-40mmHg long thighpiece garment|yz5tI|P|2012-10-01
+pXqD.|FARROWWRAP CLASSIC med 30mm-40mmHg long thighpiece garment|yz5tJ|P|2012-10-01
+pXqE.|FARROWWRAP CLASSIC large 30mm-40mmHg long thighpiece garment|yz5tK|P|2012-10-01
+pXqF.|FARROWWRAP CLASSIC x.lge 30mm-40mmHg long thighpiece garment|yz5tL|P|2012-10-01
+pXqG.|FARROWWRAP CLASSIC XS 30mm-40mmHg short thighpiece garment|yz5tM|P|2012-10-01
+pXqH.|FARROWWRAP CLASSIC sml 30mm-40mmHg short thighpiece garment|yz5tN|P|2012-10-01
+pXqI.|FARROWWRAP CLASSIC med 30mm-40mmHg short thighpiece garment|yz5tO|P|2012-10-01
+pXqJ.|FARROWWRAP CLASSIC lge 30mm-40mmHg short thighpiece garment|yz5tP|P|2012-10-01
+pXq2.|FARROWWRAP CLASSIC small 30mm-40mmHg long legpiece garment|yz5t8|P|2012-10-01
+pXOz.|ADVANCE 1 extra small plus/F054699 (14-18mmHg) long sleeve|yz5lW|P|2012-10-01
+pXOe.|JOBST BELLA LITE sml/75276-04 C2(20-30mmHg) armsleeve+band|yz5in|P|2012-10-01
+pXOf.|JOBST BELLA LITE med/75277-04 C2(20-30mmHg) armsleeve+band|yz5io|P|2012-10-01
+pXOg.|JOBST BELLA LITE lge/75278-04 C2(20-30mmHg) armsleeve+band|yz5ip|P|2012-10-01
+pXOh.|JOBST BELLA LITE small/75282-03 C2(20-30mmHg) gauntlet+thumb|yz5iq|P|2012-10-01
+pXOi.|JOBST BELLA LITE med/75283-03 C2(20-30mmHg) gauntlet+thumb|yz5ir|P|2012-10-01
+pXOj.|JOBST BELLA LITE lge/75284-03 C2(20-30mmHg) gauntlet+thumb|yz5is|P|2012-10-01
+pXOk.|ADVANCE 1 extra small plus/F054633 (14-18mmHg) normal sleeve|yz5lH|P|2012-10-01
+pXOl.|ADVANCE 1 small plus/F054634 (14-18mmHg) normal sleeve|yz5lI|P|2012-10-01
+pXOm.|ADVANCE 1 medium plus/F054635 (14-18mmHg) normal sleeve|yz5lJ|P|2012-10-01
+pXOn.|ADVANCE 1 large plus/F054636 (14-18mmHg) normal sleeve|yz5lK|P|2012-10-01
+pXOo.|ADVANCE 1 extra large plus/F054637 (14-18mmHg) normal sleeve|yz5lL|P|2012-10-01
+pXOp.|ADVANCE 1 extra small plus/F054694 (14-18mmHg) normal sleeve|yz5lM|P|2012-10-01
+pXOq.|ADVANCE 1 small plus/F054695 (14-18mmHg) normal sleeve|yz5lN|P|2012-10-01
+pXOr.|ADVANCE 1 medium plus/F054696 (14-18mmHg) normal sleeve|yz5lO|P|2012-10-01
+pXOs.|ADVANCE 1 large plus/F054697 (14-18mmHg) normal sleeve|yz5lP|P|2012-10-01
+pXOt.|ADVANCE 1 extra large plus/F054698 (14-18mmHg) normal sleeve|yz5lQ|P|2012-10-01
+pXOu.|ADVANCE 1 extra small plus/F054638 (14-18mmHg) long sleeve|yz5lR|P|2012-10-01
+pXOv.|ADVANCE 1 small plus/F054639 (14-18mmHg) long sleeve|yz5lS|P|2012-10-01
+pXOw.|ADVANCE 1 medium plus/F054640 (14-18mmHg) long sleeve|yz5lT|P|2012-10-01
+pXOx.|ADVANCE 1 large plus/F054641 (14-18mmHg) long sleeve|yz5lU|P|2012-10-01
+pXOy.|ADVANCE 1 extra large plus/F054642 (14-18mmHg) long sleeve|yz5lV|P|2012-10-01
+pXkz.|COTON INSTINCT med/F054157 C2(15-20mmHg) normal c/toe b/knee|yz5lg|P|2012-10-01
+pXki.|READYWRAP QUICK-FIT sml/RW-LE-AB-L-S black left foot garment|yz5kH|P|2012-10-01
+pXkj.|READYWRAP QUICK-FIT sml/RW-LE-AB-R-S black right foot garmnt|yz5kI|P|2012-10-01
+pXkk.|READYWRAP QUICK-FIT med/RW-LE-AB-L-M black left foot garment|yz5kJ|P|2012-10-01
+pXkl.|READYWRAP QUICK-FIT med/RW-LE-AB-R-M black right foot garmnt|yz5kK|P|2012-10-01
+pXkm.|READYWRAP QUICK-FIT lge/RW-LE-AB-L-L black left foot garment|yz5kL|P|2012-10-01
+pXkn.|READYWRAP QUICK-FIT lge/RW-LE-AB-R-L black right foot garmnt|yz5kM|P|2012-10-01
+pXko.|READYWRAP QUICK-FIT XL/RW-LE-AB-L-XL black left foot garment|yz5kN|P|2012-10-01
+pXkp.|READYWRAP QUICK-FIT XL/RW-LE-AB-R-XL black right foot garmnt|yz5kO|P|2012-10-01
+pXkq.|COTON INSTINCT sml/F054156 C2(15-20mmHg) normal c/toe b/knee|yz5lX|P|2012-10-01
+pXkr.|COTON INSTINCT sml/F054146 C2(15-20mmHg) normal c/toe b/knee|yz5lY|P|2012-10-01
+pXks.|COTON INSTINCT sml/F054174 C2(15-20mmHg) normal c/toe b/knee|yz5lZ|P|2012-10-01
+pXkt.|COTON INSTINCT sml/F054533 C2(15-20mmHg) normal c/toe b/knee|yz5la|P|2012-10-01
+pXku.|COTON INSTINCT sml/F054151 C2(15-20mmHg) long c/toe b/knee|yz5lb|P|2012-10-01
+pXkv.|COTON INSTINCT sml/F054161 C2(15-20mmHg) long c/toe b/knee|yz5lc|P|2012-10-01
+pXkw.|COTON INSTINCT sml/F054179 C2(15-20mmHg) long c/toe b/knee|yz5ld|P|2012-10-01
+pXkx.|COTON INSTINCT sml/F054538 C2(15-20mmHg) long c/toe b/knee|yz5le|P|2012-10-01
+pXky.|COTON INSTINCT med/F054147 C2(15-20mmHg) normal c/toe b/knee|yz5lf|P|2012-10-01
+pXl..|UPPER LIMB LYMPHOEDEMA GARMENTS(20)|yz5lh|P|2012-10-01
+pXl1.|ADVANCE 1 small plus/F054700 (14-18mmHg) long sleeve|yz5li|P|2012-10-01
+pXlz.|ADVANCE 1 small/F054720 (14-18mmHg) long sleeve+hand|yz5mg|P|2012-10-01
+pXl3.|ADVANCE 1 large plus/F054702 (14-18mmHg) long sleeve|yz5lk|P|2012-10-01
+pXl4.|ADVANCE 1 extra large plus/F054703 (14-18mmHg) long sleeve|yz5ll|P|2012-10-01
+pXl5.|ADVANCE 2 extra small plus/F054643 (20-25mmHg) normal sleeve|yz5lm|P|2012-10-01
+pXl6.|ADVANCE 2 small plus/F054644 (20-25mmHg) normal sleeve|yz5ln|P|2012-10-01
+pXl7.|ADVANCE 2 medium plus/F054645 (20-25mmHg) normal sleeve|yz5lo|P|2012-10-01
+pXl8.|ADVANCE 2 large plus/F054646 (20-25mmHg) normal sleeve|yz5lp|P|2012-10-01
+pXl9.|ADVANCE 2 extra large plus/F054647 (20-25mmHg) normal sleeve|yz5lq|P|2012-10-01
+pXlA.|ADVANCE 2 extra small plus/F054704 (20-25mmHg) normal sleeve|yz5lr|P|2012-10-01
+pXlB.|ADVANCE 2 small plus/F054705 (20-25mmHg) normal sleeve|yz5ls|P|2012-10-01
+pXlC.|ADVANCE 2 medium plus/F054706 (20-25mmHg) normal sleeve|yz5lt|P|2012-10-01
+pXlD.|ADVANCE 2 large plus/F054707 (20-25mmHg) normal sleeve|yz5lu|P|2012-10-01
+pXlE.|ADVANCE 2 extra large plus/F054708 (20-25mmHg) normal sleeve|yz5lv|P|2012-10-01
+pXlF.|ADVANCE 2 extra small plus/F054648 (20-25mmHg) long sleeve|yz5lw|P|2012-10-01
+pXlG.|ADVANCE 2 small plus/F054649 (20-25mmHg) long sleeve|yz5lx|P|2012-10-01
+pXlH.|ADVANCE 2 medium plus/F054650 (20-25mmHg) long sleeve|yz5ly|P|2012-10-01
+pXlI.|ADVANCE 2 large plus/F054651 (20-25mmHg) long sleeve|yz5lz|P|2012-10-01
+pXlJ.|ADVANCE 2 extra large plus/F054652 (20-25mmHg) long sleeve|yz5m0|P|2012-10-01
+pXlK.|ADVANCE 2 extra small plus/F054709 (20-25mmHg) long sleeve|yz5m1|P|2012-10-01
+pXlL.|ADVANCE 2 small plus/F054710 (20-25mmHg) long sleeve|yz5m2|P|2012-10-01
+pXlM.|ADVANCE 2 medium plus/F054711 (20-25mmHg) long sleeve|yz5m3|P|2012-10-01
+pXlN.|ADVANCE 2 large plus/F054712 (20-25mmHg) long sleeve|yz5m4|P|2012-10-01
+pXlO.|ADVANCE 2 extra large plus/F054713 (20-25mmHg) long sleeve|yz5m5|P|2012-10-01
+pXlP.|ADVANCE 1 extra small/F054613 (14-18mmHg) normal sleeve|yz5m6|P|2012-10-01
+pXlQ.|ADVANCE 1 small/F054614 (14-18mmHg) normal sleeve|yz5m7|P|2012-10-01
+pXlR.|ADVANCE 1 medium/F054615 (14-18mmHg) normal sleeve|yz5m8|P|2012-10-01
+pXlS.|ADVANCE 1 large/F054616 (14-18mmHg) normal sleeve|yz5m9|P|2012-10-01
+pXlT.|ADVANCE 1 extra large/F054617 (14-18mmHg) normal sleeve|yz5mA|P|2012-10-01
+pXlU.|ADVANCE 1 extra small/F054674 (14-18mmHg) normal sleeve|yz5mB|P|2012-10-01
+pXlV.|ADVANCE 1 small/F054675 (14-18mmHg) normal sleeve|yz5mC|P|2012-10-01
+pXlW.|ADVANCE 1 medium/F054676 (14-18mmHg) normal sleeve|yz5mD|P|2012-10-01
+pXlX.|ADVANCE 1 large/F054677 (14-18mmHg) normal sleeve|yz5mE|P|2012-10-01
+pXlY.|ADVANCE 1 extra large/F054678 (14-18mmHg) normal sleeve|yz5mF|P|2012-10-01
+pXlZ.|ADVANCE 1 extra small/F054618 (14-18mmHg) long sleeve|yz5mG|P|2012-10-01
+pXla.|ADVANCE 1 small/F054619 (14-18mmHg) long sleeve|yz5mH|P|2012-10-01
+pXlb.|ADVANCE 1 medium/F054620 (14-18mmHg) long sleeve|yz5mI|P|2012-10-01
+pXlc.|ADVANCE 1 large/F054621 (14-18mmHg) long sleeve|yz5mJ|P|2012-10-01
+pXld.|ADVANCE 1 extra large/F054622 (14-18mmHg) long sleeve|yz5mK|P|2012-10-01
+pXle.|ADVANCE 1 extra small/F054679 (14-18mmHg) long sleeve|yz5mL|P|2012-10-01
+pXlf.|ADVANCE 1 small/F054680 (14-18mmHg) long sleeve|yz5mM|P|2012-10-01
+pXlg.|ADVANCE 1 medium/F054681 (14-18mmHg) long sleeve|yz5mN|P|2012-10-01
+pXlh.|ADVANCE 1 large/F054682 (14-18mmHg) long sleeve|yz5mO|P|2012-10-01
+pXli.|ADVANCE 1 extra large/F054683 (14-18mmHg) long sleeve|yz5mP|P|2012-10-01
+pXlj.|ADVANCE 1 extra small/F054653 (14-18mmHg) normal sleeve+hand|yz5mQ|P|2012-10-01
+pXlk.|ADVANCE 1 small/F054654 (14-18mmHg) normal sleeve+hand|yz5mR|P|2012-10-01
+pXll.|ADVANCE 1 medium/F054655 (14-18mmHg) normal sleeve+hand|yz5mS|P|2012-10-01
+pXlm.|ADVANCE 1 large/F054656 (14-18mmHg) normal sleeve+hand|yz5mT|P|2012-10-01
+pXln.|ADVANCE 1 extra large/F054657 (14-18mmHg) normal sleeve+hand|yz5mU|P|2012-10-01
+pXlo.|ADVANCE 1 extra small/F054714 (14-18mmHg) normal sleeve+hand|yz5mV|P|2012-10-01
+pXlp.|ADVANCE 1 small/F054715 (14-18mmHg) normal sleeve+hand|yz5mW|P|2012-10-01
+pXlq.|ADVANCE 1 medium/F054716 (14-18mmHg) normal sleeve+hand|yz5mX|P|2012-10-01
+pXlr.|ADVANCE 1 large/F054717 (14-18mmHg) normal sleeve+hand|yz5mY|P|2012-10-01
+pXls.|ADVANCE 1 extra large/F054718 (14-18mmHg) normal sleeve+hand|yz5mZ|P|2012-10-01
+pXlt.|ADVANCE 1 extra small/F054658 (14-18mmHg) long sleeve+hand|yz5ma|P|2012-10-01
+pXlu.|ADVANCE 1 small/F054659 (14-18mmHg) long sleeve+hand|yz5mb|P|2012-10-01
+pXlv.|ADVANCE 1 medium/F054660 (14-18mmHg) long sleeve+hand|yz5mc|P|2012-10-01
+pXlw.|ADVANCE 1 large/F054661 (14-18mmHg) long sleeve+hand|yz5md|P|2012-10-01
+pXlx.|ADVANCE 1 extra large/F054662 (14-18mmHg) long sleeve+hand|yz5me|P|2012-10-01
+pXly.|ADVANCE 1 extra small/F054719 (14-18mmHg) long sleeve+hand|yz5mf|P|2012-10-01
+pXl2.|ADVANCE 1 medium plus/F054701 (14-18mmHg) long sleeve|yz5lj|P|2012-10-01
+pXm..|UPPER LIMB LYMPHOEDEMA GARMENTS(21)|yz5mh|P|2012-10-01
+pXm1.|ADVANCE 1 medium/F054721 (14-18mmHg) long sleeve+hand|yz5mi|P|2012-10-01
+pXmj.|JOBST ELVAREX SOFT U1-11-03 C1(14-18mmHg) mtm gauntlet-elbow|yz5qz|P|2012-10-01
+pXm3.|ADVANCE 1 extra large/F054723 (14-18mmHg) long sleeve+hand|yz5mk|P|2012-10-01
+pXm4.|ADVANCE 2 extra small/F054623 (20-25mmHg) normal sleeve|yz5ml|P|2012-10-01
+pXm5.|ADVANCE 2 small/F054624 (20-25mmHg) normal sleeve|yz5mm|P|2012-10-01
+pXm6.|ADVANCE 2 medium/F054625 (20-25mmHg) normal sleeve|yz5mn|P|2012-10-01
+pXm7.|ADVANCE 2 large/F054626 (20-25mmHg) normal sleeve|yz5mo|P|2012-10-01
+pXm8.|ADVANCE 2 extra large/F054627 (20-25mmHg) normal sleeve|yz5mp|P|2012-10-01
+pXm9.|ADVANCE 2 extra small/F054684 (20-25mmHg) normal sleeve|yz5mq|P|2012-10-01
+pXmA.|ADVANCE 2 small/F054685 (20-25mmHg) normal sleeve|yz5mr|P|2012-10-01
+pXmB.|ADVANCE 2 medium/F054686 (20-25mmHg) normal sleeve|yz5ms|P|2012-10-01
+pXmC.|ADVANCE 2 large/F054687 (20-25mmHg) normal sleeve|yz5mt|P|2012-10-01
+pXmD.|ADVANCE 2 extra large/F054688 (20-25mmHg) normal sleeve|yz5mu|P|2012-10-01
+pXmE.|ADVANCE 2 extra small/F054628 (20-25mmHg) long sleeve|yz5mv|P|2012-10-01
+pXmF.|ADVANCE 2 small/F054629 (20-25mmHg) long sleeve|yz5mw|P|2012-10-01
+pXmG.|ADVANCE 2 medium/F054630 (20-25mmHg) long sleeve|yz5mx|P|2012-10-01
+pXmH.|ADVANCE 2 large/F054631 (20-25mmHg) long sleeve|yz5my|P|2012-10-01
+pXmI.|ADVANCE 2 extra large/F054632 (20-25mmHg) long sleeve|yz5mz|P|2012-10-01
+pXmJ.|ADVANCE 2 extra small/F054689 (20-25mmHg) long sleeve|yz5n0|P|2012-10-01
+pXmK.|ADVANCE 2 small/F054690 (20-25mmHg) long sleeve|yz5n1|P|2012-10-01
+pXmL.|ADVANCE 2 medium/F054691 (20-25mmHg) long sleeve|yz5n2|P|2012-10-01
+pXmM.|ADVANCE 2 large/F054692 (20-25mmHg) long sleeve|yz5n3|P|2012-10-01
+pXmN.|ADVANCE 2 extra large/F054693 (20-25mmHg) long sleeve|yz5n4|P|2012-10-01
+pXmO.|ADVANCE 2 extra small/F054663 (20-25mmHg) normal sleeve+hand|yz5n5|P|2012-10-01
+pXmP.|ADVANCE 2 small/F054664 (20-25mmHg) normal sleeve+hand|yz5n6|P|2012-10-01
+pXmQ.|ADVANCE 2 medium/F054665 (20-25mmHg) normal sleeve+hand|yz5n7|P|2012-10-01
+pXmR.|ADVANCE 2 large/F054666 (20-25mmHg) normal sleeve+hand|yz5n8|P|2012-10-01
+pXmS.|ADVANCE 2 extra large/F054667 (20-25mmHg) normal sleeve+hand|yz5n9|P|2012-10-01
+pXmT.|ADVANCE 2 extra small/F054724 (20-25mmHg) normal sleeve+hand|yz5nA|P|2012-10-01
+pXmU.|ADVANCE 2 small/F054725 (20-25mmHg) normal sleeve+hand|yz5nB|P|2012-10-01
+pXmV.|ADVANCE 2 medium/F054726 (20-25mmHg) normal sleeve+hand|yz5nC|P|2012-10-01
+pXmW.|ADVANCE 2 large/F054727 (20-25mmHg) normal sleeve+hand|yz5nD|P|2012-10-01
+pXmX.|ADVANCE 2 extra large/F054728 (20-25mmHg) normal sleeve+hand|yz5nE|P|2012-10-01
+pXmY.|ADVANCE 2 extra small/F054668 (20-25mmHg) long sleeve+hand|yz5nF|P|2012-10-01
+pXmZ.|ADVANCE 2 small/F054669 (20-25mmHg) long sleeve+hand|yz5nG|P|2012-10-01
+pXma.|ADVANCE 2 medium/F054670 (20-25mmHg) long sleeve+hand|yz5nH|P|2012-10-01
+pXmb.|ADVANCE 2 large/F054671 (20-25mmHg) long sleeve+hand|yz5nI|P|2012-10-01
+pXmc.|ADVANCE 2 extra large/F054672 (20-25mmHg) long sleeve+hand|yz5nJ|P|2012-10-01
+pXmd.|ADVANCE 2 extra small/F054729 (20-25mmHg) long sleeve+hand|yz5nK|P|2012-10-01
+pXme.|ADVANCE 2 small/F054730 (20-25mmHg) long sleeve+hand|yz5nL|P|2012-10-01
+pXmf.|ADVANCE 2 medium/F054731 (20-25mmHg) long sleeve+hand|yz5nM|P|2012-10-01
+pXmg.|ADVANCE 2 large/F054732 (20-25mmHg) long sleeve+hand|yz5nN|P|2012-10-01
+pXmh.|ADVANCE 2 extra large/F054733 (20-25mmHg) long sleeve+hand|yz5nO|P|2012-10-01
+pXmi.|JOBST ELVAREX SOFT U1-11-01 C1(14-18mmHg) mtm gauntlet-wrist|yz5qy|P|2012-10-01
+pXm2.|ADVANCE 1 large/F054722 (14-18mmHg) long sleeve+hand|yz5mj|P|2012-10-01
+pXn..|LOWER LIMB LYMPHOEDEMA GARMENTS(148)|yz5nP|P|2012-10-01
+pXn1.|COTON INSTINCT med/F054175 C2(15-20mmHg) normal c/toe b/knee|yz5nQ|P|2012-10-01
+pXnz.|COTON INSTINCT lge/F054193 C2(15-20mmHg) long c/toe thigh|yz5oO|P|2012-10-01
+pXn3.|COTON INSTINCT med/F054152 C2(15-20mmHg) long c/toe b/knee|yz5nS|P|2012-10-01
+pXn4.|COTON INSTINCT med/F054162 C2(15-20mmHg) long c/toe b/knee|yz5nT|P|2012-10-01
+pXn5.|COTON INSTINCT med/F054180 C2(15-20mmHg) long c/toe b/knee|yz5nU|P|2012-10-01
+pXn6.|COTON INSTINCT med/F054539 C2(15-20mmHg) long c/toe b/knee|yz5nV|P|2012-10-01
+pXn7.|COTON INSTINCT lge/F054148 C2(15-20mmHg) normal c/toe b/knee|yz5nW|P|2012-10-01
+pXn8.|COTON INSTINCT lge/F054158 C2(15-20mmHg) normal c/toe b/knee|yz5nX|P|2012-10-01
+pXn9.|COTON INSTINCT lge/F054176 C2(15-20mmHg) normal c/toe b/knee|yz5nY|P|2012-10-01
+pXnA.|COTON INSTINCT lge/F054535 C2(15-20mmHg) normal c/toe b/knee|yz5nZ|P|2012-10-01
+pXnB.|COTON INSTINCT lge/F054153 C2(15-20mmHg) long c/toe b/knee|yz5na|P|2012-10-01
+pXnC.|COTON INSTINCT lge/F054163 C2(15-20mmHg) long c/toe b/knee|yz5nb|P|2012-10-01
+pXnD.|COTON INSTINCT lge/F054181 C2(15-20mmHg) long c/toe b/knee|yz5nc|P|2012-10-01
+pXnE.|COTON INSTINCT lge/F054540 C2(15-20mmHg) long c/toe b/knee|yz5nd|P|2012-10-01
+pXnF.|COTON INSTINCT XL/F054149 C2(15-20mmHg) normal c/toe b/knee|yz5ne|P|2012-10-01
+pXnG.|COTON INSTINCT XL/F054159 C2(15-20mmHg) normal c/toe b/knee|yz5nf|P|2012-10-01
+pXnH.|COTON INSTINCT XL/F054177 C2(15-20mmHg) normal c/toe b/knee|yz5ng|P|2012-10-01
+pXnI.|COTON INSTINCT XL/F054536 C2(15-20mmHg) normal c/toe b/knee|yz5nh|P|2012-10-01
+pXnJ.|COTON INSTINCT XL/F054154 C2(15-20mmHg) long c/toe b/knee|yz5ni|P|2012-10-01
+pXnK.|COTON INSTINCT XL/F054164 C2(15-20mmHg) long c/toe b/knee|yz5nj|P|2012-10-01
+pXnL.|COTON INSTINCT XL/F054182 C2(15-20mmHg) long c/toe b/knee|yz5nk|P|2012-10-01
+pXnM.|COTON INSTINCT XL/F054541 C2(15-20mmHG) long c/toe b/knee|yz5nl|P|2012-10-01
+pXnN.|COTON INSTINCT XXL/F054150 C2(15-20mmHg) normal c/toe b/knee|yz5nm|P|2012-10-01
+pXnO.|COTON INSTINCT XXL/F054160 C2(15-20mmHg) normal c/toe b/knee|yz5nn|P|2012-10-01
+pXnP.|COTON INSTINCT XXL/F054178 C2(15-20mmHg) normal c/toe b/knee|yz5no|P|2012-10-01
+pXnQ.|COTON INSTINCT XXL/F054537 C(15-20mmHg) normal c/toe b/knee|yz5np|P|2012-10-01
+pXnR.|COTON INSTINCT XXL/F054155 C2(15-20mmHg) long c/toe b/knee|yz5nq|P|2012-10-01
+pXnS.|COTON INSTINCT XXL/F054165 C2(15-20mmHg) long c/toe b/knee|yz5nr|P|2012-10-01
+pXnT.|COTON INSTINCT XXL/F054183 C2(15-20mmHg) long c/toe b/knee|yz5ns|P|2012-10-01
+pXnU.|COTON INSTINCT XXL/F054542 C2(15-20mmHg) long c/toe b/knee|yz5nt|P|2012-10-01
+pXnV.|COTON INSTINCT sml/F054568 C2(15-20mmHg) normal o/toe b/knee|yz5nu|P|2012-10-01
+pXnW.|COTON INSTINCT sml/F054578 C2(15-20mmHg) normal o/toe b/knee|yz5nv|P|2012-10-01
+pXnX.|COTON INSTINCT sml/F054573 C2(15-20mmHg) long o/toe b/knee|yz5nw|P|2012-10-01
+pXnY.|COTON INSTINCT sml/F054583 C2(15-20mmHg) long o/toe b/knee|yz5nx|P|2012-10-01
+pXnZ.|COTON INSTINCT med/F054569 C2(15-20mmHg) normal o/toe b/knee|yz5ny|P|2012-10-01
+pXna.|COTON INSTINCT med/F054579 C2(15-20mmHg) normal o/toe b/knee|yz5nz|P|2012-10-01
+pXnb.|COTON INSTINCT med/F054574 C2(15-20mmHg) long o/toe b/knee|yz5o0|P|2012-10-01
+pXnc.|COTON INSTINCT med/F054584 C2(15-20mmHg) long o/toe b/knee|yz5o1|P|2012-10-01
+pXnd.|COTON INSTINCT lge/F054570 C2(15-20mmHg) normal o/toe b/knee|yz5o2|P|2012-10-01
+pXne.|COTON INSTINCT lge/F054580 C2(15-20mmHg) normal o/toe b/knee|yz5o3|P|2012-10-01
+pXnf.|COTON INSTINCT lge/F054575 C2(15-20mmHg) long o/toe b/knee|yz5o4|P|2012-10-01
+pXng.|COTON INSTINCT lge/F054585 C2(15-20mmHg) long o/toe b/knee|yz5o5|P|2012-10-01
+pXnh.|COTON INSTINCT XL/F054571 C2(15-20mmHg) normal o/toe b/knee|yz5o6|P|2012-10-01
+pXni.|COTON INSTINCT XL/F054581 C2(15-20mmHg) normal o/toe b/knee|yz5o7|P|2012-10-01
+pXnj.|COTON INSTINCT XL/F054576 C2(15-20mmHg) long o/toe b/knee|yz5o8|P|2012-10-01
+pXnk.|COTON INSTINCT XL/F054586 C2(15-20mmHg) long o/toe b/knee|yz5o9|P|2012-10-01
+pXnl.|COTON INSTINCT XXL/F054572 C2(15-20mmHg) normal o/toe b/knee|yz5oA|P|2012-10-01
+pXnm.|COTON INSTINCT XXL/F054582 C2(15-20mmHg) normal o/toe b/knee|yz5oB|P|2012-10-01
+pXnn.|COTON INSTINCT XXL/F054577 C2(15-20mmHg) long o/toe b/knee|yz5oC|P|2012-10-01
+pXno.|COTON INSTINCT XXL/F054587 C2(15-20mmHg) long o/toe b/knee|yz5oD|P|2012-10-01
+pXnp.|COTON INSTINCT sml/F054186 C2(15-20mmHg) normal c/toe thigh|yz5oE|P|2012-10-01
+pXnq.|COTON INSTINCT sml/F054196 C2(15-20mmHg) normal c/toe thigh|yz5oF|P|2012-10-01
+pXnr.|COTON INSTINCT sml/F054191 C2(15-20mmHg) long c/toe thigh|yz5oG|P|2012-10-01
+pXns.|COTON INSTINCT sml/F054201 C2(15-20mmHg) long c/toe thigh|yz5oH|P|2012-10-01
+pXnt.|COTON INSTINCT med/F054187 C2(15-20mmHg) normal c/toe thigh|yz5oI|P|2012-10-01
+pXnu.|COTON INSTINCT med/F054197 C2(15-20mmHg) normal c/toe thigh|yz5oJ|P|2012-10-01
+pXnv.|COTON INSTINCT med/F054192 C2(15-20mmHg) long c/toe thigh|yz5oK|P|2012-10-01
+pXnw.|COTON INSTINCT med/F054202 C2(15-20mmHg) long c/toe thigh|yz5oL|P|2012-10-01
+pXnx.|COTON INSTINCT lge/F054188 C2(15-20mmHg) normal c/toe thigh|yz5oM|P|2012-10-01
+pXny.|COTON INSTINCT lge/F054198 C2(15-20mmHg) normal c/toe thigh|yz5oN|P|2012-10-01
+pXn2.|COTON INSTINCT med/F054534 C2(15-20mmHg) normal c/toe b/knee|yz5nR|P|2012-10-01
+pXo..|LOWER LIMB LYMPHOEDEMA GARMENTS(149)|yz5oP|P|2012-10-01
+pXo1.|COTON INSTINCT lge/F054203 C2(15-20mmHg) long c/toe thigh|yz5oQ|P|2012-10-01
+pXoz.|COTON INSTINCT lge/F056181 C3(20-36mmHg) long c/toe thigh|yz5pO|P|2012-10-01
+pXo3.|COTON INSTINCT XL/F054199 C2(15-20mmHg) normal c/toe thigh|yz5oS|P|2012-10-01
+pXo4.|COTON INSTINCT XL/F054194 C2(15-20mmHg) long c/toe thigh|yz5oT|P|2012-10-01
+pXo5.|COTON INSTINCT XL/F054204 C2(15-20mmHg) long c/toe thigh|yz5oU|P|2012-10-01
+pXo6.|COTON INSTINCT XXL/F054190 C2(15-20mmHg) normal c/toe thigh|yz5oV|P|2012-10-01
+pXo7.|COTON INSTINCT XXL/F054200 C2(15-20mmHg) normal c/toe thigh|yz5oW|P|2012-10-01
+pXo8.|COTON INSTINCT XXL/F054195 C2(15-20mmHg) long c/toe thigh|yz5oX|P|2012-10-01
+pXo9.|COTON INSTINCT XXL/F054205 C2(15-20mmHg) long c/toe thigh|yz5oY|P|2012-10-01
+pXoA.|COTON INSTINCT sml/F054206 C2(15-20mmHg) normal o/toe thigh|yz5oZ|P|2012-10-01
+pXoB.|COTON INSTINCT sml/F054543 C2(15-20mmHg) normal o/toe thigh|yz5oa|P|2012-10-01
+pXoC.|COTON INSTINCT sml/F054211 C2(15-20mmHg) long o/toe thigh|yz5ob|P|2012-10-01
+pXoD.|COTON INSTINCT sml/F054548 C2(15-20mmHg) long o/toe thigh|yz5oc|P|2012-10-01
+pXoE.|COTON INSTINCT med/F054207 C2(15-20mmHg) normal o/toe thigh|yz5od|P|2012-10-01
+pXoF.|COTON INSTINCT med/F054544 C2(15-20mmHg) normal o/toe thigh|yz5oe|P|2012-10-01
+pXoG.|COTON INSTINCT med/F054212 C2(15-20mmHg) long o/toe thigh|yz5of|P|2012-10-01
+pXoH.|COTON INSTINCT med/F054549 C2(15-20mmHg) long o/toe thigh|yz5og|P|2012-10-01
+pXoI.|COTON INSTINCT lge/F054208 C2(15-20mmHg) normal o/toe thigh|yz5oh|P|2012-10-01
+pXoJ.|COTON INSTINCT lge/F054545 C2(15-20mmHg) normal o/toe thigh|yz5oi|P|2012-10-01
+pXoK.|COTON INSTINCT lge/F054213 C2(15-20mmHg) long o/toe thigh|yz5oj|P|2012-10-01
+pXoL.|COTON INSTINCT lge/F054550 C2(15-20mmHg) long o/toe thigh|yz5ok|P|2012-10-01
+pXoM.|COTON INSTINCT XL/F054209 C2(15-20mmHg) normal o/toe thigh|yz5ol|P|2012-10-01
+pXoN.|COTON INSTINCT XL/F054546 C2(15-20mmHg) normal o/toe thigh|yz5om|P|2012-10-01
+pXoO.|COTON INSTINCT XL/F054214 C2(15-20mmHg) long o/toe thigh|yz5on|P|2012-10-01
+pXoP.|COTON INSTINCT XL/F054551 C2(15-20mmHg) long o/toe thigh|yz5oo|P|2012-10-01
+pXoQ.|COTON INSTINCT XXL/F054210 C2(15-20mmHg) normal o/toe thigh|yz5op|P|2012-10-01
+pXoR.|COTON INSTINCT XXL/F054547 C2(15-20mmHg) normal o/toe thigh|yz5oq|P|2012-10-01
+pXoS.|COTON INSTINCT XXL/F054215 C2(15-20mmHg) long o/toe thigh|yz5or|P|2012-10-01
+pXoT.|COTON INSTINCT XXL/F054552 C2(15-20mmHg)long o/toe thigh|yz5os|P|2012-10-01
+pXoU.|COTON INSTINCT sml/F056143 C3(20-36mmHg) normal c/toe b/knee|yz5ot|P|2012-10-01
+pXoV.|COTON INSTINCT sml/F056153 C3(20-36mmHg) normal c/toe b/knee|yz5ou|P|2012-10-01
+pXoW.|COTON INSTINCT sml/F056148 C3(20-36mmHg) long c/toe b/knee|yz5ov|P|2012-10-01
+pXoX.|COTON INSTINCT sml/F056158 C3(20-36mmHg) long c/toe b/knee|yz5ow|P|2012-10-01
+pXoY.|COTON INSTINCT med/F056144 C3(20-36mmHg) normal c/toe b/knee|yz5ox|P|2012-10-01
+pXoZ.|COTON INSTINCT med/F056154 C3(20-36mmHg) normal c/toe b/knee|yz5oy|P|2012-10-01
+pXoa.|COTON INSTINCT med/F056149 C3(20-36mmHg) long c/toe b/knee|yz5oz|P|2012-10-01
+pXob.|COTON INSTINCT med/F056159 C3(20-36mmHg) long c/toe b/knee|yz5p0|P|2012-10-01
+pXoc.|COTON INSTINCT lge/F056145 C3(20-36mmHg) normal c/toe b/knee|yz5p1|P|2012-10-01
+pXod.|COTON INSTINCT lge/F056155 C3(20-36mmHg) normal c/toe b/knee|yz5p2|P|2012-10-01
+pXoe.|COTON INSTINCT lge/F056150 C3(20-36mmHg) long c/toe b/knee|yz5p3|P|2012-10-01
+pXof.|COTON INSTINCT lge/F056160 C3(20-36mmHg) long c/toe b/knee|yz5p4|P|2012-10-01
+pXog.|COTON INSTINCT XL/F056146 C3(20-36mmHg) normal c/toe b/knee|yz5p5|P|2012-10-01
+pXoh.|COTON INSTINCT XL/F056156 C3(20-36mmHg) normal c/toe b/knee|yz5p6|P|2012-10-01
+pXoi.|COTON INSTINCT XL/F056151 C3(20-36mmHg) long c/toe b/knee|yz5p7|P|2012-10-01
+pXoj.|COTON INSTINCT XL/F056161 C3(20-36mmHg) long c/toe b/knee|yz5p8|P|2012-10-01
+pXok.|COTON INSTINCT XXL/F056147 C3(20-36mmHg) normal c/toe b/knee|yz5p9|P|2012-10-01
+pXol.|COTON INSTINCT XXL/F056157 C3(20-36mmHg) normal c/toe b/knee|yz5pA|P|2012-10-01
+pXom.|COTON INSTINCT XXL/F056152 C3(20-36mmHg) long c/toe b/knee|yz5pB|P|2012-10-01
+pXon.|COTON INSTINCT XXL/F056162 C3(20-36mmHg) long c/toe b/knee|yz5pC|P|2012-10-01
+pXoo.|COTON INSTINCT sml/F056163 C3(20-36mmHg) normal c/toe thigh|yz5pD|P|2012-10-01
+pXop.|COTON INSTINCT sml/F056174 C3(20-36mmHg) normal c/toe thigh|yz5pE|P|2012-10-01
+pXoq.|COTON INSTINCT sml/F056169 C3(20-36mmHg) long c/toe thigh|yz5pF|P|2012-10-01
+pXor.|COTON INSTINCT sml/F056179 C3(20-36mmHg) long c/toe thigh|yz5pG|P|2012-10-01
+pXos.|COTON INSTINCT med/F056164 C3(20-36mmHg) normal c/toe thigh|yz5pH|P|2012-10-01
+pXot.|COTON INSTINCT med/F056175 C3(20-36mmHg) normal c/toe thigh|yz5pI|P|2012-10-01
+pXou.|COTON INSTINCT med/F056170 C3(20-36mmHg) long c/toe thigh|yz5pJ|P|2012-10-01
+pXov.|COTON INSTINCT med/F056180 C3(20-36mmHg) long c/toe thigh|yz5pK|P|2012-10-01
+pXow.|COTON INSTINCT lge/F056165 C3(20-36mmHg) normal c/toe thigh|yz5pL|P|2012-10-01
+pXox.|COTON INSTINCT lge/F056176 C3(20-36mmHg) normal c/toe thigh|yz5pM|P|2012-10-01
+pXoy.|COTON INSTINCT lge/F056171 C3(20-36mmHg) long c/toe thigh|yz5pN|P|2012-10-01
+pXo2.|COTON INSTINCT XL/F054189 C2(15-20mmHg) normal c/toe thigh|yz5oR|P|2012-10-01
+pXp..|LOWER LIMB LYMPHOEDEMA GARMENTS(150)|yz5pP|P|2012-10-01
+pXp1.|COTON INSTINCT XL/F056166 C3(20-36mmHg) normal c/toe thigh|yz5pQ|P|2012-10-01
+pXpz.|FARROWWRAP CLASSIC x.lge 30mm-40mmHg regular legpiece garmnt|yz5t5|P|2012-10-01
+pXp3.|COTON INSTINCT XL/F056172 C3(20-36mmHg) long c/toe thigh|yz5pS|P|2012-10-01
+pXp4.|COTON INSTINCT XL/F056182 C3(20-36mmHg) long c/toe thigh|yz5pT|P|2012-10-01
+pXp5.|COTON INSTINCT XXL/F056167 C3(20-36mmHg) normal c/toe thigh|yz5pU|P|2012-10-01
+pXp6.|COTON INSTINCT XXL/F056178 C3(20-36mmHg) normal c/toe thigh|yz5pV|P|2012-10-01
+pXp7.|COTON INSTINCT XXL/F056173 C3(20-36mmHg) long c/toe thigh|yz5pW|P|2012-10-01
+pXp8.|COTON INSTINCT XXL/F056183 C3(20-36mmHg) long c/toe thigh|yz5pX|P|2012-10-01
+pXp9.|ELVAREX SOFT L1-11-02 C1(18-21mmHg) mtm foot cap+toes|yz5r0|P|2012-10-01
+pXpA.|JOBST ELVAREX SOFT L3-09-04 C3(34-46mmHg) mtm b/knee garment|yz5r1|P|2012-10-01
+pXpB.|JOBST ELVAREX SOFT L3-09-06 C3(34-46mmHg) mtm thigh garment|yz5r2|P|2012-10-01
+pXpC.|FARROWWRAP LITE x.sml 20mm-30mmHg regular footpiece garment|yz5sI|P|2012-10-01
+pXpD.|FARROWWRAP LITE small 20mm-30mmHg regular footpiece garment|yz5sJ|P|2012-10-01
+pXpE.|FARROWWRAP LITE medium 20mm-30mmHg regular footpiece garment|yz5sK|P|2012-10-01
+pXpF.|FARROWWRAP LITE large 20mm-30mmHg regular footpiece garment|yz5sL|P|2012-10-01
+pXpG.|FARROWWRAP LITE x.lge 20mm-30mmHg regular footpiece garment|yz5sM|P|2012-10-01
+pXpH.|FARROWWRAP LITE x.small 20mm-30mmHg long footpiece garment|yz5sN|P|2012-10-01
+pXpI.|FARROWWRAP LITE small 20mm-30mmHg long footpiece garment|yz5sO|P|2012-10-01
+pXpJ.|FARROWWRAP LITE medium 20mm-30mmHg long footpiece garment|yz5sP|P|2012-10-01
+pXpK.|FARROWWRAP LITE large 20mm-30mmHg long footpiece garment|yz5sQ|P|2012-10-01
+pXpL.|FARROWWRAP LITE x.large 20mm-30mmHg long footpiece garment|yz5sR|P|2012-10-01
+pXpM.|FARROWWRAP LITE x.small 20mm-30mmHg regular legpiece garment|yz5sS|P|2012-10-01
+pXpN.|FARROWWRAP LITE small 20mm-30mmHg regular legpiece garment|yz5sT|P|2012-10-01
+pXpO.|FARROWWRAP LITE medium 20mm-30mmHg regular legpiece garment|yz5sU|P|2012-10-01
+pXpP.|FARROWWRAP LITE large 20mm-30mmHg regular legpiece garment|yz5sV|P|2012-10-01
+pXpQ.|FARROWWRAP LITE x.large 20mm-30mmHg regular legpiece garment|yz5sW|P|2012-10-01
+pXpR.|FARROWWRAP LITE x.small 20mm-30mmHg long legpiece garment|yz5sX|P|2012-10-01
+pXpS.|FARROWWRAP LITE small 20mm-30mmHg long legpiece garment|yz5sY|P|2012-10-01
+pXpT.|FARROWWRAP LITE medium 20mm-30mmHg long legpiece garment|yz5sZ|P|2012-10-01
+pXpU.|FARROWWRAP LITE large 20mm-30mmHg long legpiece garment|yz5sa|P|2012-10-01
+pXpV.|FARROWWRAP LITE x.large 20mm-30mmHg long legpiece garment|yz5sb|P|2012-10-01
+pXpW.|FARROWWRAP LITE x.sml 20mm-30mmHg regular thighpiece garment|yz5sc|P|2012-10-01
+pXpX.|FARROWWRAP LITE small 20mm-30mmHg regular thighpiece garment|yz5sd|P|2012-10-01
+pXpY.|FARROWWRAP LITE med 20mm-30mmHg regular thighpiece garment|yz5se|P|2012-10-01
+pXpZ.|FARROWWRAP LITE large 20mm-30mmHg regular thighpiece garment|yz5sf|P|2012-10-01
+pXpa.|FARROWWRAP LITE x.lge 20mm-30mmHg regular thighpiece garment|yz5sg|P|2012-10-01
+pXpb.|FARROWWRAP LITE x.small 20mm-30mmHg long thighpiece garment|yz5sh|P|2012-10-01
+pXpc.|FARROWWRAP LITE small 20mm-30mmHg long thighpiece garment|yz5si|P|2012-10-01
+pXpd.|FARROWWRAP LITE medium 20mm-30mmHg long thighpiece garment|yz5sj|P|2012-10-01
+pXpe.|FARROWWRAP LITE large 20mm-30mmHg long thighpiece garment|yz5sk|P|2012-10-01
+pXpf.|FARROWWRAP LITE x.large 20mm-30mmHg long thighpiece garment|yz5sl|P|2012-10-01
+pXpg.|FARROWWRAP LITE x.small 20mm-30mmHg short thighpiece garment|yz5sm|P|2012-10-01
+pXph.|FARROWWRAP LITE small 20mm-30mmHg short thighpiece garment|yz5sn|P|2012-10-01
+pXpi.|FARROWWRAP LITE medium 20mm-30mmHg short thighpiece garment|yz5so|P|2012-10-01
+pXpj.|FARROWWRAP LITE large 20mm-30mmHg short thighpiece garment|yz5sp|P|2012-10-01
+pXpk.|FARROWWRAP LITE x.large 20mm-30mmHg short thighpiece garment|yz5sq|P|2012-10-01
+pXpl.|FARROWWRAP CLASSIC XS 30mm-40mmHg regular footpiece garment|yz5sr|P|2012-10-01
+pXpm.|FARROWWRAP CLASSIC sml 30mm-40mmHg regular footpiece garment|yz5ss|P|2012-10-01
+pXpn.|FARROWWRAP CLASSIC med 30mm-40mmHg regular footpiece garment|yz5st|P|2012-10-01
+pXpo.|FARROWWRAP CLASSIC lge 30mm-40mmHg regular footpiece garment|yz5su|P|2012-10-01
+pXpp.|FARROWWRAP CLASSIC XL 30mm-40mmHg regular footpiece garment|yz5sv|P|2012-10-01
+pXpq.|FARROWWRAP CLASSIC XS 30mm-40mmHg long footpiece garment|yz5sw|P|2012-10-01
+pXpr.|FARROWWRAP CLASSIC small 30mm-40mmHg long footpiece garment|yz5sx|P|2012-10-01
+pXps.|FARROWWRAP CLASSIC medium 30mm-40mmHg long footpiece garment|yz5sy|P|2012-10-01
+pXpt.|FARROWWRAP CLASSIC large 30mm-40mmHg long footpiece garment|yz5sz|P|2012-10-01
+pXpu.|FARROWWRAP CLASSIC x.lge 30mm-40mmHg long footpiece garment|yz5t0|P|2012-10-01
+pXpv.|FARROWWRAP CLASSIC XS 30mm-40mmHg regular legpiece garment|yz5t1|P|2012-10-01
+pXpw.|FARROWWRAP CLASSIC sml 30mm-40mmHg regular legpiece garment|yz5t2|P|2012-10-01
+pXpx.|FARROWWRAP CLASSIC med 30mm-40mmHg regular legpiece garment|yz5t3|P|2012-10-01
+pXpy.|FARROWWRAP CLASSIC lge 30mm-40mmHg regular legpiece garment|yz5t4|P|2012-10-01
+pXp2.|COTON INSTINCT XL/F056177 C3(20-36mmHg) normal c/toe thigh|yz5pR|P|2012-10-01
+p5z..|MULTILAYER COMPRESSION BANDAGE(2)|yz5sE|P|2012-10-01
+p5z1.|JOBST COMPRIFORE LF 18-25cm 4 layer compression bandage kit|yz5sF|P|2012-10-01
+p5z3.|JOBST COMPRIFORE LITE LF 18cm-25cm 3 layer comp bandage kit|yz5sH|P|2012-10-01
+p5z2.|JOBST COMPRIFORE LITE 18cm-25cm 3 layer comp bandage kit|yz5sG|P|2012-10-01
+q9tb.|PAYNE REPLACEMENT FOR MK1/MK3/MK6 0102 x.large rubber belt|yz5vE|P|2012-10-01
+q9wd.|AFEX NOCTURA A130-N leg bag configuration supplemental kit|yz5vG|P|2012-10-01
+q9wc.|AFEX NOCTURA A140-N bed bag configuration supplemental kit|yz5vF|P|2012-10-01
+s334.|WIPEAWAY WA2 adhesive remover spray 50mL|yz5vH|P|2012-10-01
+s3H..|C D MEDICAL ADHESIVE REMOVER|yz5j2|P|2012-10-01
+s3H2.|PEEL EASY 300715 adhesive remover wipes|yz5rE|P|2012-10-01
+s3H1.|PEEL EASY 300714 adhesive remover spray 50mL|yz5j3|P|2012-10-01
+s6aB.|ADAPT 86-165cm/7299 stoma belt|yz5rG|P|2012-10-01
+s6aA.|ADAPT 58-109cm/7300 stoma belt|yz5rF|P|2012-10-01
+s7MN.|MODERMA FLEX MAXI 35mm/42335 beige closed colostomy bags|yz5rK|P|2012-10-01
+s7MK.|MODERMA FLEX MAXI 15-55mm/42300 beige closed colostomy bags|yz5rH|P|2012-10-01
+s7ML.|MODERMA FLEX MAXI 25mm/42325 beige closed colostomy bags|yz5rI|P|2012-10-01
+s7MM.|MODERMA FLEX MAXI 30mm/42330 beige closed colostomy bags|yz5rJ|P|2012-10-01
+scQw.|OPTION SOFT CONVEX 40mm/SCA45-4140KV drainable ileobags|yz5kR|P|2012-10-01
+scQl.|OPTION SOFT CONVEX 20mm-24mm/SC25-4120KV drainable ileobags|yz5j4|P|2012-10-01
+scQm.|OPTION SOFT CONVEX 20mm-34mm/SC35-4120KV drainable ileobags|yz5j5|P|2012-10-01
+scQn.|OPTION SOFT CONVEX 25mm/SC35-4125KV drainable ileostomy bags|yz5j6|P|2012-10-01
+scQo.|OPTION SOFT CONVEX 30mm/SC35-4130KV drainable ileostomy bags|yz5j7|P|2012-10-01
+scQp.|OPTION SOFT CONVEX 20mm-44mm/SC45-4120KV drainable ileobags|yz5j8|P|2012-10-01
+scQq.|OPTION SOFT CONVEX 25mm/SC45-4125KV drainable ileostomy bags|yz5j9|P|2012-10-01
+scQr.|OPTION SOFT CONVEX 30mm/SC45-4130KV drainable ileostomy bags|yz5jA|P|2012-10-01
+scQs.|OPTION SOFT CONVEX 35mm/SC45-4135KV drainable ileostomy bags|yz5jB|P|2012-10-01
+scQt.|OPTION SOFT CONVEX 40mm/SC45-4140KV drainable ileostomy bags|yz5jC|P|2012-10-01
+scQu.|OPTION SOFT CONVEX 30mm/SCA35-4130KV drainable ileobags|yz5kP|P|2012-10-01
+scQv.|OPTION SOFT CONVEX 30mm/SCA45-4130KV drainable ileobags|yz5kQ|P|2012-10-01
+sg6B.|PERI-PREP SENSITIVE PPS2 protective film foam applicator 1mL|yz5vI|P|2012-10-01
+sgv5.|TRIPLE CARE 59446825 cleanser spray 236mL|yz5vJ|P|2012-10-01
+sgv4.|NO-STING SKIN-PREP 66800787 barrier film foam applicator 3mL|yz5kT|P|2012-10-01
+sgv3.|NO-STING SKIN-PREP 66800789 barrier film foam applicator 1mL|yz5kS|P|2012-10-01
+sgw..|BSN MEDICAL LTD SKIN PREPARATIONS|yz5vK|P|2012-10-01
+sgw1.|CUTIMED PROTECT barrier cream 28g|yz5vL|P|2012-10-01
+sgw2.|CUTIMED PROTECT barrier cream 90g|yz5vM|P|2012-10-01
+sgw5.|CUTIMED PROTECT barrier film spray 28mL|yz5vP|P|2012-10-01
+sgw4.|CUTIMED PROTECT barrier film foam applicator 3mL|yz5vO|P|2012-10-01
+sgw3.|CUTIMED PROTECT barrier film foam applicator 1mL|yz5vN|P|2012-10-01
+shg5.|DANSAC 20mm/070-20 seals|yz5rL|P|2012-10-01
+shg6.|DANSAC 30mm/070-30 seals|yz5rM|P|2012-10-01
+shg7.|DANSAC 40mm/070-40 seals|yz5rN|P|2012-10-01
+shg8.|DANSAC 50mm/070-50 seals|yz5rO|P|2012-10-01
+sie3.|IRYFIX F00014E stoma caps|yz5pj|P|2012-10-01
+skCR.|CONFORM 2 45mm/44400 beige closed midi 2-pce ostomy sys bags|yz5rP|P|2012-10-01
+skCS.|CONFORM 2 55mm/45400 beige closed midi 2-pce ostomy sys bags|yz5rQ|P|2012-10-01
+skCW.|CONFORM 2 70mm/47420 beige closed maxi 2-pce ostomy sys bags|yz5rU|P|2012-10-01
+skCU.|CONFORM 2 45mm/44420 beige closed maxi 2-pce ostomy sys bags|yz5rS|P|2012-10-01
+skCV.|CONFORM 2 55mm/45420 beige closed maxi 2-pce ostomy sys bags|yz5rT|P|2012-10-01
+skCT.|CONFORM 2 70mm/47400 beige closed midi 2-pce ostomy sys bags|yz5rR|P|2012-10-01
+XaZid|History of care from relative|Yaviv|P|2012-10-01
+XaZJC|H/O long term condition|YavQu|P|2012-10-01
+XaZLS|H/O intermittent claudication|YavT3|P|2012-10-01
+XaZbC|H/O ovarian cyst|YaveK|P|2012-10-01
+XaZKd|H/O acute coronary syndrome|YavSE|P|2012-10-01
+XaZIY|H/O amaurosis fugax|YavQV|P|2012-10-01
+XaZHi|H/O venous thromboembolism|YavPv|P|2012-10-01
+XaZHk|H/O thrombophlebitis|YavPx|P|2012-10-01
+XaZZY|H/O carcinoma of larynx|Yavbt|P|2012-10-01
+XaZhq|History of acute hypercapnic respiratory failure|Yavil|P|2012-10-01
+XaZhq|History of acute type II respiratory failure|Yavim|S|2012-10-01
+XaZhn|History of acute hypoxaemic respiratory failure|Yavih|P|2012-10-01
+XaZhn|History of acute type I respiratory failure|Yavii|S|2012-10-01
+XaZZV|H/O vocal cord haematoma|Yavbp|P|2012-10-01
+XaZRg|H/O med intervention high risk country blood-borne virus|YavWC|P|2012-10-01
+XaZIx|History of arterial surgery|YavQo|P|2012-10-01
+XaZej|H/O calcitonin allergy|YavhI|P|2012-10-01
+XaZef|H/O ibandronic acid allergy|YavhE|P|2012-10-01
+XaZeh|H/O zoledronic acid monohydrate allergy|YavhG|P|2012-10-01
+XaZfk|H/O risedronate sodium allergy|Yavhz|P|2012-10-01
+XaZfj|H/O alendronic acid allergy|Yavhy|P|2012-10-01
+XaZfi|H/O disodium etidronate allergy|Yavhx|P|2012-10-01
+XaZei|H/O denosumab allergy|YavhH|P|2012-10-01
+XaZhL|History of being victim of domestic violence|YaviS|P|2012-10-01
+XaZRw|Suspected arrhythmia|YavWD|P|2012-10-01
+XaZkX|Personal Health Plan offered|YavjL|P|2012-10-01
+XaZkX|PHP (Personal Health Plan) offered|YavjM|S|2012-10-01
+XaZdI|Calcitonin contraindicated|YavgF|P|2012-10-01
+XaZdH|Ibandronic acid contraindicated|YavgE|P|2012-10-01
+XaZdJ|Zoledronic acid monohydrate contraindicated|YavgG|P|2012-10-01
+XaZfn|Risedronate sodium contraindicated|Yavi2|P|2012-10-01
+XaZfm|Alendronic acid contraindicated|Yavi1|P|2012-10-01
+XaZfl|Disodium etidronate contraindicated|Yavi0|P|2012-10-01
+XaZKg|Compression bandaging contraindicated|YavSH|P|2012-10-01
+XaZbj|Dabigatran contraindicated|Yavf0|P|2012-10-01
+XaZdG|Denosumab contraindicated|YavgD|P|2012-10-01
+XaZKT|Cardiac resynchronisation therapy not indicated|YavS4|P|2012-10-01
+XaZed|Calcitonin not indicated|YavhC|P|2012-10-01
+XaZeZ|Ibandronic acid not indicated|Yavh8|P|2012-10-01
+XaZea|Zoledronic acid monohydrate not indicated|Yavh9|P|2012-10-01
+XaZfh|Risedronate sodium not indicated|Yavhw|P|2012-10-01
+XaZfg|Alendronic acid not indicated|Yavhv|P|2012-10-01
+XaZff|Disodium etidronate not indicated|Yavhu|P|2012-10-01
+XaZbl|Dabigatran not indicated|Yavf2|P|2012-10-01
+XaZec|Denosumab not indicated|YavhB|P|2012-10-01
+XaZeY|Calcitonin not tolerated|Yavh7|P|2012-10-01
+XaZeV|Ibandronic acid not tolerated|Yavh4|P|2012-10-01
+XaZeW|Zoledronic acid monohydrate not tolerated|Yavh5|P|2012-10-01
+XaZfe|Risedronate sodium not tolerated|Yavht|P|2012-10-01
+XaZfd|Alendronic acid not tolerated|Yavhs|P|2012-10-01
+XaZfc|Disodium etidronate not tolerated|Yavhr|P|2012-10-01
+XaZbr|Dabigatran not tolerated|Yavf8|P|2012-10-01
+XaZeX|Denosumab not tolerated|Yavh6|P|2012-10-01
+XaZlr|Referral to Angina Plan self-management programme declined|Yavk1|P|2012-10-01
+XaZNW|Referral to community diabetes specialist nurse declined|YavUV|P|2012-10-01
+XaZUd|Referral to IAPT (imp acc to psych thera) programme declined|YavYN|P|2012-10-01
+XaZeU|Calcitonin declined|Yavh3|P|2012-10-01
+XaZeQ|Ibandronic acid declined|Yavgz|P|2012-10-01
+XaZeS|Zoledronic acid monohydrate declined|Yavh1|P|2012-10-01
+XaZfb|Risedronate sodium declined|Yavhq|P|2012-10-01
+XaZfa|Alendronic acid declined|Yavhp|P|2012-10-01
+XaZfZ|Disodium etidronate declined|Yavho|P|2012-10-01
+XaZVO|Post exposure DTaP/IPV declined|YavZ2|P|2012-10-01
+XaZZl|Dabigatran declined|Yavc2|P|2012-10-01
+XaZeT|Denosumab declined|Yavh2|P|2012-10-01
+XaZdA|QRISK2 cardiovascular disease risk assessment declined|Yavg5|P|2012-10-01
+XaZd6|Biopsychosocial assessment declined|Yavg1|P|2012-10-01
+XaZOq|Blood test declined|YavV2|P|2012-10-01
+XaZKp|Carer annual health check declined|YavSR|P|2012-10-01
+XaZX0|Butterfly Scheme for dementia declined|Yavaa|P|2012-10-01
+XaZjl|Personal Health Plan declined|YavjJ|P|2012-10-01
+XaZjl|PHP (Personal Health Plan) declined|YavjK|S|2012-10-01
+XaZLB|CAF for children and young people action plan completed|YavSm|P|2012-10-01
+XaZPq|NHS Health Check completed by third party|YavVJ|P|2012-10-01
+XaZjf|Personal Health Plan-based care started|YavjG|P|2012-10-01
+XaZjf|PHP (Personal Health Plan)-based care started|YavjH|S|2012-10-01
+XaZLV|Personal care plan-based care started|YavT7|P|2012-10-01
+XaZjc|Personal Health Plan-based care stopped|YavjD|P|2012-10-01
+XaZjc|PHP (Personal Health Plan)-based care stopped|YavjE|S|2012-10-01
+XaZKV|Cardiac resynchronisation therapy indicated|YavS6|P|2012-10-01
+XaZmP|High risk human papillomavirus genotyping test not indicated|YavkD|P|2012-10-01
+XaZIz|Assessment not indicated|YavQr|P|2012-10-01
+XaZVe|Thyroid disease monitoring not indicated|YavZF|P|2012-10-01
+XaZbx|No H/O skin ulcer|YavfD|P|2012-10-01
+XaZbf|No H/O hypoglycaemia|Yavew|P|2012-10-01

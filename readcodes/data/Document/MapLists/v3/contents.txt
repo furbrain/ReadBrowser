@@ -1,0 +1,83 @@
+ICD-10  1. Concepts in the Disorders, Tumour               10d_hl.txt   1578
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-10 because    
+           they are high level terms.                   
+ICD-10  2. Concepts in the Disorders, Tumour               10d_pt.txt    241
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-10 because    
+           they are partial terms.                      
+ICD-10  3. Concepts in the Disorders, Tumour                               0
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-10 because    
+           they are ICD-9 based terms.                  
+ICD-10  4. Concepts in the Disorders, Tumour               10d_os.txt    937
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-10 because    
+           they are outside the scope of ICD-10.        
+ICD-10  5. Other concepts in the Disorders, Tumour                         0
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-10 excluding  
+           the above.                                   
+ICD-10  6. Concepts in the History & Observations          10h_hl.txt    145
+           hierarchy with no map to ICD-10 because      
+           they are high level terms.                   
+ICD-10  7. Concepts in the History & Observations          10h_pt.txt    841
+           hierarchy with no map to ICD-10 because      
+           they are partial terms.                      
+ICD-10  8. Concepts in the History & Observations                          0
+           hierarchy with no map to ICD-10 because      
+           they are ICD-9 based terms.                  
+ICD-10  9. Concepts in the History & Observations          10h_os.txt  14407
+           hierarchy with no map to ICD-10 because      
+           they are outside the scope of ICD-10.        
+ICD-10 10. Other concepts in the History &                                 0
+           Observations hierarchy with no map to        
+           ICD-10 excluding the above.                  
+
+ICD-9   1. Concepts in the Disorders, Tumour                9d_hl.txt    896
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-9 because     
+           they are high level terms.                   
+ICD-9   2. Concepts in the Disorders, Tumour                               0
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-9 because     
+           they are partial terms.                      
+ICD-9   3. Concepts in the Disorders, Tumour                               0
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-9 because     
+           they are ICD-10 based terms.                 
+ICD-9   4. Concepts in the Disorders, Tumour                9d_os.txt    321
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-9 because     
+           they are outside the scope of ICD-9.         
+ICD-9   5. Other concepts in the Disorders, Tumour                         0
+           Morphology and Causes of accidents           
+           hierarchies with no map to ICD-9 excluding   
+           the above.                                   
+ICD-9   6. Concepts in the History & Observations           9h_hl.txt     11
+           hierarchy with no map to ICD-9 because they  
+           are high level terms.                        
+ICD-9   7. Concepts in the History & Observations                          0
+           hierarchy with no map to ICD-9 because they  
+           are partial terms.                           
+ICD-9   8. Concepts in the History & Observations                          0
+           hierarchy with no map to ICD-9 because they  
+           are ICD-10 based terms.                      
+ICD-9   9. Concepts in the History & Observations           9h_os.txt     25
+           hierarchy with no map to ICD-9 because they  
+           are outside the scope of ICD-9.              
+ICD-9  10. Other concepts in the History &                                 0
+           Observations hierarchy with no map to ICD-9  
+           excluding the above.                         
+
+OPCS-4  1. Concepts in the Procedures hierarchy with         4_hl.txt   1049
+           no map to OPCS-4 because they are high       
+           level terms.                                 
+OPCS-4  2. Concepts in the Procedures hierarchy with         4_pt.txt    320
+           no map to OPCS-4 because they are partial    
+           terms.                                       
+OPCS-4  3. Concepts in the Procedures hierarchy with         4_os.txt    695
+           no map to OPCS-4 because they are outside    
+           the scope of OPCS-4.                         
+OPCS-4  4. Other concepts in the Procedures hierarchy                      0
+           with no map to OPCS-4 excluding the above.   

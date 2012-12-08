@@ -1,0 +1,8 @@
+<table border="0">
+<tr><td width=100px><i>{{note.date}}</i></td><td><b>{{note.problem}}</b></td></tr>
+{% if note.subjective %}<tr><td>Subjective</td><td>{{note.subjective}}</td></tr>{% endif %}
+{% if note.objective %}<tr><td>Objective</td><td>{{note.objective}}</td></tr>{% endif %}
+{% if note.assessment %}<tr><td>Assessment</td><td>{{note.assessment}}</td></tr>{% endif %}
+{% if note.plan %}<tr><td>Plan</td><td>{{note.plan}}</td></tr>{% endif %}
+</table>
+

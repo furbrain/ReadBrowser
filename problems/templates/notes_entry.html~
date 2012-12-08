@@ -1,0 +1,8 @@
+<table border="0">
+<tr><th width=100px>{{note.date}}</th><th>{{note.problem}}</th></tr>
+<tr><td>Subjective</td><td>{{note.subjective}}</td></tr>
+<tr><td>Objective</td><td>{{note.objective}}</td></tr>
+<tr><td>Assessment</td><td>{{note.assessment}}</td></tr>
+<tr><td>Plan</td><td>{{note.plan}}</td></tr>
+</table>
+

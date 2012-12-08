@@ -1,0 +1,5 @@
+READ_CODE|TERM_60|TERM_ID|DESC_TYPE|RELEASE
+XaEN6|MB/total creatine kinase ratio|Yaeos|P|2012-10-01
+XaYil|Follicular lymphoma grade 3a|Yav1i|P|2012-10-01
+XaYim|Follicular lymphoma grade 3b|Yav1k|P|2012-10-01
+68N3.|Immunisation offered|Y7A3A|P|2012-10-01

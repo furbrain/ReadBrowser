@@ -1,0 +1,29 @@
+from django.core.management.base import NoArgsCommand, make_option
+from readcodes.models import Term,ReadCode,Hierarchy,Key
+
+class ImportRead(NoArgsCommand):
+
+    help = "Import data"
+
+    option_list = NoArgsCommand.option_list + (
+        make_option('--verbose', action='store_true'),
+    )
+
+    def handle_noargs(self, **options):
+		#import terms
+		f = open('readcodes/data/terms.v3')
+
+		for j in f:
+			data = dict(zip(('term_id','term_status','term_30','term_60','term_198'),j.split('|')))
+			if data['term_60']=="":
+				data['term_60'] = None
+			if data['term_198']=="":
+				data['term_198'] = None
+			t = Term(**data)
+			t.save()
+
+		#import descriptions
+		# load descs
+		# load hierarchies
+		# load concepts
+		#import keys

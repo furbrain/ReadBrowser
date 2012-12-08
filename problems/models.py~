@@ -1,0 +1,23 @@
+from django.db import models
+from readcodes.models import ReadCode
+from mptt.models import TreeForeignKey,MPTTModel
+
+class Problem(MPTTModel):
+    SEVERITY_CHOICES=(('J','Major'),('N','Minor'))
+    ACTIVITY_CHOICES=(('A','Active'),('I','Inactive'))
+    name = models.ForeignKey(ReadCode)
+    parent = TreeForeignKey('self',null=True,blank=True)
+    severity = models.CharField(max_length=1,choices = SEVERITY_CHOICES)
+    activity = models.CharField(max_length=1,choices = ACTIVITY_CHOICES)
+    expiry = models.DateField()
+    
+    def __unicode__(self):
+        return unicode(self.name)
+
+class Note(models.Model):
+    problem = models.ForeignKey(Problem)
+    subjective = models.TextField()
+    objective = models.TextField()
+    assessment = models.TextField()
+    plan = models.TextField()
+
